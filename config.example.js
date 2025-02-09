@@ -1,8 +1,8 @@
 /*
-Author : Shirokami Ryzen 
+Author : Mchan 
 WA : +6285174269046
-Base : Elaina-MultiDevice
-Release : 22 Nov 2022
+Base : Shiya-MD 
+Release : 22 Nov 2025
 */
 
 import { watchFile, unwatchFile } from 'fs'
