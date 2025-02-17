@@ -1,104 +1,121 @@
-import { createHash } from 'crypto'
+/* ─────────────────────
+*Branpedia | Bran E-sport*
+WhatsApp: +6285795600265
+GitHub: github.com/branpedia
+─────────────────────*/
 
-let handler = async function (m, { text, usedPrefix, conn }) {
-  // Inisialisasi database
-  if (!global.db.data.users) global.db.data.users = {}
-  if (!global.db.data.users[m.sender]) {
-    global.db.data.users[m.sender] = {
-      registered: false,
-      name: '',
-      age: 0,
-      regTime: 0
+import { createHash } from 'crypto';
+
+// Daftar bahasa dan pesan yang sesuai
+const languageMessages = {
+  'id': {
+    alreadyRegistered: '🚫 *Kamu sudah terdaftar, nih!*\n\n📛 *Nama:* {name}\n🔑 *SN:* {sn}\n📅 *Tanggal Daftar:* {regTime}',
+    registrationSuccess: '🎉 *Selamat! Kamu resmi terdaftar!*\n\n📛 *Nama:* {name}\n🔑 *SN:* {sn}\n📅 *Tanggal Daftar:* {regTime}\n\n_Jangan lupa simpan SN kamu, ya!_ 😉',
+    checkSN: '🔍 *Ini data registrasi kamu!*\n\n📛 *Nama:* {name}\n🔑 *SN:* {sn}\n📅 *Tanggal Daftar:* {regTime}',
+    notRegistered: '❌ *Kamu belum terdaftar, nih!* Ketik *daftar* buat registrasi dulu.',
+    unregisterSuccess: '🗑️ *Data kamu udah dihapus!* Kalo mau daftar lagi, ketik *daftar*.',
+    unregisterNotRegistered: '❌ *Kamu belum terdaftar, nih!*',
+    sendToPC: '📩 *Cek PC kamu, ya! Data udah dikirim ke chat pribadi.*'
+  },
+  'en': {
+    alreadyRegistered: '🚫 *You are already registered!*\n\n📛 *Name:* {name}\n🔑 *SN:* {sn}\n📅 *Registration Date:* {regTime}',
+    registrationSuccess: '🎉 *Congratulations! You are officially registered!*\n\n📛 *Name:* {name}\n🔑 *SN:* {sn}\n📅 *Registration Date:* {regTime}\n\n_Don\'t forget to save your SN!_ 😉',
+    checkSN: '🔍 *Here is your registration data!*\n\n📛 *Name:* {name}\n🔑 *SN:* {sn}\n📅 *Registration Date:* {regTime}',
+    notRegistered: '❌ *You are not registered yet!* Type *register* to sign up.',
+    unregisterSuccess: '🗑️ *Your data has been deleted!* If you want to register again, type *register*.',
+    unregisterNotRegistered: '❌ *You are not registered yet!*',
+    sendToPC: '📩 *Check your private chat! The data has been sent to your private chat.*'
+  }
+};
+
+// Fungsi untuk menentukan bahasa berdasarkan nomor telepon
+const getLanguage = (phoneNumber) => {
+  if (phoneNumber.startsWith('+62')) return 'id'; // Indonesia
+  return 'en'; // Default ke Bahasa Inggris
+};
+
+let handler = async (m, { conn, usedPrefix, command }) => {
+  // Ambil data pengguna dari database global
+  let user = global.db.data.users[m.sender];
+
+  // Tentukan bahasa berdasarkan nomor telepon pengguna
+  const language = getLanguage(m.sender.split('@')[0]);
+
+  // Fungsi untuk mengirim pesan ke private chat jika perintah berasal dari grup
+  const sendPrivateMessage = async (message) => {
+    if (m.isGroup) {
+      await conn.sendMessage(m.sender, { text: message }, { quoted: m });
+      await conn.reply(m.chat, languageMessages[language].sendToPC, m);
+    } else {
+      await conn.reply(m.chat, message, m);
+    }
+  };
+
+  // Fungsi untuk menghasilkan SN unik
+  const generateSN = (id) => {
+    return 'branpedia-' + createHash('md5').update(id).digest('hex');
+  };
+
+  // Fungsi untuk membuat mention yang benar
+  const getUserMention = (sender) => {
+    return `@${sender.split('@')[0]}`; // Format mention sebagai string
+  };
+
+  // Perintah registrasi
+  if (/^(daftar|register)$/i.test(command)) {
+    if (user && user.registered) {
+      await sendPrivateMessage(
+        languageMessages[language].alreadyRegistered
+          .replace('{name}', getUserMention(m.sender))
+          .replace('{sn}', user.sn)
+          .replace('{regTime}', user.regTime)
+      );
+    } else {
+      // Inisialisasi data pengguna
+      user.registered = true;
+      user.name = getUserMention(m.sender); // Gunakan mention sebagai nama
+      user.sn = generateSN(m.sender);
+      user.regTime = new Date().toLocaleString(language === 'id' ? 'id-ID' : 'en-US', { timeZone: language === 'id' ? 'Asia/Jakarta' : 'UTC' });
+
+      await sendPrivateMessage(
+        languageMessages[language].registrationSuccess
+          .replace('{name}', user.name)
+          .replace('{sn}', user.sn)
+          .replace('{regTime}', user.regTime)
+      );
     }
   }
-  const user = global.db.data.users[m.sender]
 
-  // URL thumbnail
-  const mainThumbnail = 'https://ar-hosting.pages.dev/1738636253290.jpg'
-  const successThumbnail = 'https://ar-hosting.pages.dev/1738636250739.jpg'
-
-  // Cek status registrasi
-  if (user.registered) {
-    return conn.sendFile(m.chat, mainThumbnail, 'thumb.jpg', 
-      `✅ *Anda sudah terdaftar!*\n\nUntuk daftar ulang ketik:\n*${usedPrefix}unreg <SN>*`, m)
-  }
-
-  // Inisialisasi sesi
-  if (!global.temp) global.temp = {}
-  const session = global.temp[m.sender]
-
-  // Step 1: Minta nama
-  if (!session) {
-    global.temp[m.sender] = { step: 'nama' }
-    return conn.sendFile(m.chat, mainThumbnail, 'thumb.jpg', 
-      `📝 *FORM REGISTRASI*\n\nSilakan balas pesan ini dengan cara:\n*.daftar namamu*\n(maksimal 30 karakter)`, m)
-  }
-
-  // Step 2: Proses nama
-  if (session.step === 'nama') {
-    if (!text || text.length > 30) {
-      delete global.temp[m.sender]
-      return conn.sendFile(m.chat, mainThumbnail, 'thumb.jpg', 
-        '❌ Nama tidak valid! Harus 3-30 karakter\nContoh: Budi Santoso', m)
+  // Perintah cek SN
+  if (/^ceksn$/i.test(command)) {
+    if (user && user.registered) {
+      await sendPrivateMessage(
+        languageMessages[language].checkSN
+          .replace('{name}', user.name)
+          .replace('{sn}', user.sn)
+          .replace('{regTime}', user.regTime)
+      );
+    } else {
+      await conn.reply(m.chat, languageMessages[language].notRegistered, m);
     }
-    
-    global.temp[m.sender] = { step: 'umur', name: text.trim() }
-    return conn.sendFile(m.chat, mainThumbnail, 'thumb.jpg', 
-      `🎂 *USIA ANDA*\n\nSilakan balas pesan ini dengan cara:\n*.daftar umurmu*\n(12-100 tahun)`, m)
   }
 
-  // Step 3: Proses umur
-  if (session.step === 'umur') {
-    const age = parseInt(text)
-    if (isNaN(age) || age < 12 || age > 100) {
-      delete global.temp[m.sender]
-      return conn.sendFile(m.chat, mainThumbnail, 'thumb.jpg', 
-        '❌ Usia tidak valid! Harus 12-100 tahun\nContoh: 25', m)
+  // Perintah unregistrasi
+  if (/^unreg$/i.test(command)) {
+    if (user && user.registered) {
+      user.registered = false;
+      user.name = '';
+      user.sn = '';
+      user.regTime = '';
+      await conn.reply(m.chat, languageMessages[language].unregisterSuccess, m);
+    } else {
+      await conn.reply(m.chat, languageMessages[language].unregisterNotRegistered, m);
     }
-
-    // Simpan data
-    user.name = session.name
-    user.age = age
-    user.regTime = Date.now()
-    user.registered = true
-
-    // Generate SN
-    const sn = createHash('md5')
-      .update(`${m.sender}:${user.regTime}`)
-      .digest('hex')
-      .substr(0, 12)
-      .toUpperCase()
-
-    // Hapus session
-    delete global.temp[m.sender]
-
-    // Kirim konfirmasi dengan thumbnail sukses
-    return conn.sendFile(m.chat, successThumbnail, 'success.jpg', 
-      `✅ *REGISTRASI BERHASIL!*
-
-╭─「 📋 DATA AKUN 」
-│ • Nama: ${user.name}
-│ • Usia: ${user.age} tahun
-│ • SN: ${sn}
-╰────
-
-📜 *SYARAT & KETENTUAN:*
-1. Dilarang spam command
-2. Tidak menggunakan fitur NSFW
-3. Masa berlaku 30 hari
-
-🗓 Registrasi berlaku hingga:
-${new Date(user.regTime + 2592000000).toLocaleDateString('id-ID', {
-  weekday: 'long', 
-  year: 'numeric',
-  month: 'long',
-  day: 'numeric'
-})}`, m)
   }
-}
+};
 
-handler.help = ['daftar']
-handler.tags = ['main']
-handler.command = /^(daftar|reg(is(ter)?)?)$/i
+handler.help = ['daftar', 'ceksn', 'unreg'];
+handler.tags = ['main'];
+handler.command = /^(daftar|register|ceksn|unreg)$/i;
 
-export default handler
+export default handler;
