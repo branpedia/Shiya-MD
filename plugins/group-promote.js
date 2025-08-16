@@ -17,7 +17,9 @@ let handler = async (m, { conn, participants, text }) => {
   else if (text) {
     let number = text.replace(/[^0-9]/g, '')
     if (!number) throw 'Nomor tidak valid.'
-    users = [`${number}@s.whatsapp.net`]
+    // Cek apakah grup menggunakan LID atau regular
+    const isLidGroup = participants.some(p => p.id.endsWith('@lid'))
+    users = [`${number}@${isLidGroup ? 'lid' : 's.whatsapp.net'}`]
   }
 
   // 4. Tidak ada input
@@ -28,26 +30,23 @@ let handler = async (m, { conn, participants, text }) => {
   let promoteSuccess = []
 
   for (let user of users) {
-    if (user.endsWith('@s.whatsapp.net')) {
-      const participant = participants.find(v => areJidsSameUser(v.id, user))
-      if (!participant?.admin) {
-        await conn.groupParticipantsUpdate(m.chat, [user], 'promote')
-        promoteSuccess.push(user)
-        await delay(1000)
-      }
+    const participant = participants.find(v => areJidsSameUser(v.id, user))
+    if (participant && !participant.admin) {
+      await conn.groupParticipantsUpdate(m.chat, [user], 'promote')
+      promoteSuccess.push(user)
+      await delay(1000)
     }
   }
 
   if (promoteSuccess.length) {
     let teks = `✅ *Sukses Promote Admin:*\n${promoteSuccess.map(u => `• @${u.split('@')[0]}`).join('\n')}`
     
-    // Kirim sebagai reply ke pesan utama, sambil tag user yang di-promote
     await conn.sendMessage(m.chat, {
       text: teks,
       mentions: promoteSuccess
     }, { quoted: m })
   } else {
-    m.reply('⚠️ Tidak ada yang bisa dipromote.')
+    m.reply('⚠️ Tidak ada yang bisa dipromote (mungkin sudah admin atau user tidak ditemukan).')
   }
 }
 
