@@ -1,3 +1,10 @@
+/* ─────────────────────
+*Branpedia | Bran E-sport*
+*WhatsApp:* +6285795600265
+*GitHub:* github.com/branpedia
+*Saluran Official Kami:* https://whatsapp.com/channel/0029VaR0ejN47Xe26WUarL3H
+─────────────────────*/
+
 import { areJidsSameUser } from '@adiwajshing/baileys'
 
 let handler = async (m, { conn, text, isAdmin, participants }) => {
