@@ -1,50 +1,73 @@
-// Don't delete this credit!!!
-// Script by ShirokamiRyzen
+/*
+* Nama fitur : Instagram Downloader
+* Type : Plugin Esm
+* Sumber : https://whatsapp.com/channel/0029VaR0ejN47Xe26WUarL3H
+* Author : Ryezn 
+*/
 
-import { snapsave } from '@bochilteam/scraper'
+const snapins = async (urlIgPost) => {
+    const headers = {
+        "content-type": "application/x-www-form-urlencoded"
+    }
 
-let handler = async (m, { conn, args }) => {
-    if (!args[0]) throw 'Please provide a Instagram video URL';
-    const sender = m.sender.split('@')[0];
-    const url = args[0];
+    const response = await fetch("https://snapins.ai/action.php", {
+        headers,
+        body: "url=" + encodeURIComponent(urlIgPost),
+        method: "POST"
+    })
 
-    m.reply(wait);
+    if (!response.ok) throw Error(`gagal mendownload informasi. ${response.status} ${response.statusText}`)
 
-    try {
-        const data = await snapsave(url);
-        
-        // Find the HD video
-        let video = data.results[0];
+    const json = await response.json()
 
-        if (video) {
-            const videoBuffer = await fetch(video.url).then(res => res.buffer());
-            const caption = `Ini kak videonya @${sender}`;
+    const name = json.data?.[0]?.author?.name || "(no name)"
+    const username = json.data?.[0]?.author?.username || "(no username)"
 
-            await conn.sendMessage(
-                m.chat, {
-                    video: videoBuffer,
-                    mimetype: "video/mp4",
-                    fileName: `video.mp4`,
-                    caption: caption,
-                    mentions: [m.sender],
-                }, {
-                    quoted: m
-                }
-            );
-        } else {
-            throw 'No available video found';
+    let images = []
+    let videos = []
+
+    json.data?.forEach(v => {
+        if (v.type === "image") {
+            images.push(v.imageUrl)
+        } else if (v.type === "video") {
+            videos.push(v.videoUrl)
         }
-    } catch (error) {
-        console.error('Handler Error:', error);
-        conn.reply(m.chat, `An error occurred: ${error}`, m);
+    })
+
+    return { name, username, images, videos }
+}
+
+let handler = async (m, { conn, args, command }) => {
+    if (!args[0]) throw `mana url Instagram nya?\ncontoh : .${command} https://www.instagram.com/p/xxxxx/`
+    m.reply('wett')
+
+    let { images, videos } = await snapins(args[0])
+
+    let totalFoto = images.length
+    let totalVideo = videos.length
+
+    if (totalFoto === 0 && totalVideo === 0) {
+        return m.reply("❌ Tidak ada media yang ditemukan.")
+    }
+
+    let caption = `✅ Media terdeteksi:\n- ${totalFoto} Foto\n- ${totalVideo} Video`
+    await m.reply(caption)
+
+    if (images.length > 0) {
+        for (const img of images) {
+            await conn.sendMessage(m.chat, { image: { url: img } }, { quoted: m })
+        }
+    }
+
+    if (videos.length > 0) {
+        for (const vid of videos) {
+            await conn.sendMessage(m.chat, { video: { url: vid } }, { quoted: m })
+        }
     }
 }
 
-handler.help = ['ig'].map(v => v + ' <url>')
+handler.command = ['ig', 'igdl', 'instagram']
+handler.help = ['igdl']
 handler.tags = ['downloader']
-
-handler.command = /^(ig(dl)?)$/i
-handler.limit = true
-handler.register = true
 
 export default handler
