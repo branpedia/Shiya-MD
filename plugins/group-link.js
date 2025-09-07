@@ -75,6 +75,6 @@ handler.help = ['linkgroup']
 handler.tags = ['group']
 handler.command = /^link(gro?up)?$/i
 handler.group = true
-handler.admin = true // Only group admins can use this command
+handler.admin = false // Only group all can use this command
 
 export default handler
