@@ -1,45 +1,44 @@
 import similarity from "similarity";
 const threshold = 0.72;
+
 export async function before(m) {
   let id = m.chat;
-  if (
-    !m.quoted ||
-    !m.quoted.fromMe ||
-    !m.quoted.isBaileys ||
-    !m.text ||
-    !/Ketik.*hlagu|ᴋᴇᴛɪᴋ.*ʜʟᴀɢᴜ/i.test(m.quoted.text) ||
-    /.*hlagu|.*ʜʟᴀɢᴜ/i.test(m.text)
-  )
-    return !0;
-  this.tebaklagu = this.tebaklagu ? this.tebaklagu : {};
-  if (!(id in this.tebaklagu)) return m.reply("Soal itu telah berakhir");
-  if (m.quoted.id == this.tebaklagu[id][0].id) {
-    let isSurrender = /^((me)?nyerah|surr?ender)$/i.test(m.text);
-    if (isSurrender) {
-      clearTimeout(this.tebaklagu[id][4]);
-      delete this.tebaklagu[id];
-      return m.reply("*Yah Menyerah :( !*");
-    }
-    let json = JSON.parse(JSON.stringify(this.tebaklagu[id][1]));
-    if (m.text.toLowerCase() == json.judul.toLowerCase().trim()) {
-      global.db.data.users[m.sender].exp += this.tebaklagu[id][2];
-      m.reply(`*Benar!*\n+${this.tebaklagu[id][2]} XP`);
-      clearTimeout(this.tebaklagu[id][4]);
-      delete this.tebaklagu[id];
-    } else if (
-      similarity(m.text.toLowerCase(), json.judul.toLowerCase().trim()) >=
-      threshold
-    ) {
-      m.reply(`*Dikit Lagi!*`);
-    } else if (--this.tebaklagu[id][3] == 0) {
-      clearTimeout(this.tebaklagu[id][4]);
-      delete this.tebaklagu[id];
-      conn.reply(m.chat, `*Kesempatan habis!*\nJawaban: *${json.jawaban}*`, m);
-    } else
-      m.reply(
-        `*Jawaban Salah!*\nMasih ada ${this.tebaklagu[id][3]} kesempatan`,
-      );
+  this.tebaklagu = this.tebaklagu || {};
+  if (!(id in this.tebaklagu)) return true;
+
+  let game = this.tebaklagu[id];
+
+  // hanya tanggapi jika user reply pesan soal
+  if (!m.quoted || m.quoted.id !== game.msgId) return true;
+
+  let isSurrender = /^((me)?nyerah|surr?ender)$/i.test(m.text);
+  if (isSurrender) {
+    clearTimeout(game.timeout);
+    delete this.tebaklagu[id];
+    return m.reply("*Yah Menyerah :( !*");
   }
-  return !0;
+
+  return cekJawaban(m, this, id, m.text, game);
 }
+
+function cekJawaban(m, conn, id, jawabanUser, game) {
+  let jawaban = game.json.judul.toLowerCase().trim();
+  let t = jawabanUser.toLowerCase().trim();
+
+  if (t === jawaban) {
+    global.db.data.users[m.sender].exp += game.poin;
+    m.reply(`*🎉 Benar!*\n+${game.poin} XP`);
+    clearTimeout(game.timeout);
+    delete conn.tebaklagu[id];
+  } else if (similarity(t, jawaban) >= threshold) {
+    m.reply(`*Dikit Lagi!*`);
+  } else if (--game.kesempatan === 0) {
+    clearTimeout(game.timeout);
+    m.reply(`*Kesempatan habis!*\nJawaban: *${game.json.judul}*`);
+    delete conn.tebaklagu[id];
+  } else {
+    m.reply(`*Jawaban Salah!* Masih ada ${game.kesempatan} kesempatan`);
+  }
+}
+
 export const exp = 0;
