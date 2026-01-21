@@ -1,0 +1,1182 @@
+[
+  {
+    "soal": "Menyusuri lorong-lorong pasar tradisional, timbangan digital selalu dibawa, dan kejujuran dalam takaran adalah prinsip utamanya.",
+    "jawaban": "pedagang"
+  },
+  {
+    "soal": "Duduk di depan komputer dengan headphone besar, suara direkam dan diedit sampai sempurna, dan podcast adalah karya terbarunya.",
+    "jawaban": "editor audio"
+  },
+  {
+    "soal": "Mengawasi proses pengadilan dari kursi khusus, palu kayu menjadi simbol kekuasaannya, dan keputusannya mengubah hidup orang.",
+    "jawaban": "hakim"
+  },
+  {
+    "soal": "Membawa kit pertolongan pertama ke gunung, tali dan carabiner selalu siap, dan nyawa pendaki di tangannya.",
+    "jawaban": "pemandu gunung"
+  },
+  {
+    "soal": "Menyusun puzzle bukti di ruang khusus, sidik jari dan DNA adalah petunjuknya, dan kasus tak terpecahkan jadi tantangannya.",
+    "jawaban": "penyidik"
+  },
+  {
+    "soal": "Bermain dengan warna dan tekstur di kanvas besar, cat minyak adalah medium favoritnya, dan pameran tunggal adalah mimpinya.",
+    "jawaban": "pelukis"
+  },
+  {
+    "soal": "Menyelami arsip tua berdebu, dokumen sejarah ditemukan kembali, dan masa lalu hidup dalam tulisannya.",
+    "jawaban": "sejarawan"
+  },
+  {
+    "soal": "Mengendarai ambulans dengan sirene menyala, pertolongan pertama diberikan sebelum ke rumah sakit, dan detik-detik menentukan nyawa.",
+    "jawaban": "paramedis"
+  },
+  {
+    "soal": "Menyusun strategi pemasaran di ruang rapat, data konsumen dianalisis, dan brand awareness adalah target utamanya.",
+    "jawaban": "marketing"
+  },
+  {
+    "soal": "Merawat bayi prematur di inkubator, monitor tanda vital selalu diawasi, dan sentuhan penuh kasih adalah terapinya.",
+    "jawaban": "perawat NICU"
+  },
+  {
+    "soal": "Membuat patung dari es di festival musim dingin, gergaji dan pahat es adalah alatnya, dan karya meleleh adalah bagian proses.",
+    "jawaban": "pematung es"
+  },
+  {
+    "soal": "Menyelami gua bawah tanah dengan headlamp, stalaktit dan stalagmit dipetakan, dan keindahan tersembunyi ditemukan.",
+    "jawaban": "penjelajah gua"
+  },
+  {
+    "soal": "Merancang pakaian untuk fashion show, pola dan tekstil dipadukan, dan model berjalan di catwalk dengan karyanya.",
+    "jawaban": "desainer fashion"
+  },
+  {
+    "soal": "Menyusun jadwal penerbangan yang padat, headset selalu menempel di telinga, dan delay adalah musuh besarnya.",
+    "jawaban": "dispatcher penerbangan"
+  },
+  {
+    "soal": "Memotret satwa liar di habitat asli, kamera telephoto selalu siap, dan kesabaran adalah kunci mendapatkan shot sempurna.",
+    "jawaban": "fotografer wildlife"
+  },
+  {
+    "soal": "Menganalisis pola kejahatan di peta digital, hotspot diidentifikasi, dan patroli diatur berdasarkan prediksinya.",
+    "jawaban": "analis kriminal"
+  },
+  {
+    "soal": "Membuat perhiasan dari emas dan permata, tang dan kaca pembesar adalah temannya, dan kilau batu jadi kebanggaan.",
+    "jawaban": "perajin perhiasan"
+  },
+  {
+    "soal": "Menyelami dunia virtual reality, kode dan grafis disatukan, dan pengalaman immersive diciptakan.",
+    "jawaban": "developer VR"
+  },
+  {
+    "soal": "Merawat kuda pacu di kandang khusus, sikat dan obat selalu siap, dan kemenangan di lintasan adalah hasil kerjanya.",
+    "jawaban": "pelatih kuda"
+  },
+  {
+    "soal": "Menyusun menu untuk restoran bintang lima, bahan lokal dan impor dipadukan, dan Michelin star adalah obsesinya.",
+    "jawaban": "chef"
+  },
+  {
+    "soal": "Menganalisis tanah untuk pertanian, pH dan nutrisi diukur, dan hasil panen meningkat berdasarkan rekomendasinya.",
+    "jawaban": "ahli tanah"
+  },
+  {
+    "soal": "Membuat animasi untuk film Hollywood, software 3D dikuasai, dan karakter hidup di layar lebar.",
+    "jawaban": "animator"
+  },
+  {
+    "soal": "Menyelamatkan burung migran yang cedera, kandang rehabilitasi jadi rumah sementara, dan terbang bebas adalah pencapaiannya.",
+    "jawaban": "rehabilitator satwa"
+  },
+  {
+    "soal": "Merancang taman vertikal di gedung perkantoran, sistem irigasi otomatis dipasang, dan hijau di beton adalah karyanya.",
+    "jawaban": "arsitek lanskap"
+  },
+  {
+    "soal": "Menyusun rencana evakuasi untuk bencana, simulasi dilakukan rutin, dan kesiapsiagaan menyelamatkan nyawa.",
+    "jawaban": "ahli manajemen bencana"
+  },
+  {
+    "soal": "Memotret produk untuk katalog online, lighting studio disetel sempurna, dan gambar membuat produk terlihat menarik.",
+    "jawaban": "fotografer produk"
+  },
+  {
+    "soal": "Menganalisis sampel air dari laut dalam, mikroskop elektron digunakan, dan pencemaran terdeteksi dini.",
+    "jawaban": "ahli oseanografi"
+  },
+  {
+    "soal": "Membuat alat musik tradisional dari kayu pilihan, ketelitian tinggi diperlukan, dan nada sempurna adalah tujuan.",
+    "jawaban": "pembuat alat musik"
+  },
+  {
+    "soal": "Menyelami data genetik pasien, DNA diurutkan, dan penyakit keturunan diprediksi.",
+    "jawaban": "ahli genetika"
+  },
+  {
+    "soal": "Merawat bonsai berusia ratusan tahun, gunting khusus digunakan, dan kesabaran ekstra dibutuhkan.",
+    "jawaban": "ahli bonsai"
+  },
+  {
+    "soal": "Menyusun strategi investasi untuk klien kaya, pasar global dipantau, dan portofolio berkembang pesat.",
+    "jawaban": "manajer investasi"
+  },
+  {
+    "soal": "Memotret pernikahan dari pagi sampai malam, momen spontan ditangkap, dan album kenangan dibuat.",
+    "jawaban": "fotografer wedding"
+  },
+  {
+    "soal": "Menganalisis dokumen hukum yang kompleks, pasal-pasal dicermati, dan celah hukum ditemukan.",
+    "jawaban": "peneliti hukum"
+  },
+  {
+    "soal": "Membuat kriya dari rotan dan bambu, anyaman tradisional dilestarikan, dan produk ekspor dihasilkan.",
+    "jawaban": "pengrajin anyaman"
+  },
+  {
+    "soal": "Menyelami pasar seni internasional, lukisan langka dinilai, dan lelang mencapai harga fantastis.",
+    "jawaban": "kurator seni"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan jiwa, terapi psikologis diberikan, dan kembali ke masyarakat adalah tujuan.",
+    "jawaban": "psikiater"
+  },
+  {
+    "soal": "Menyusun koreografi untuk pertunjukan besar, penari dilatih keras, dan pementasan sukses adalah kepuasan.",
+    "jawaban": "koreografer"
+  },
+  {
+    "soal": "Memotret fashion di lokasi eksotis, model profesional bekerja sama, dan majalah ternama memuat karyanya.",
+    "jawaban": "fotografer fashion"
+  },
+  {
+    "soal": "Menganalisis risiko proyek konstruksi, safety check dilakukan rutin, dan kecelakaan kerja diminimalisir.",
+    "jawaban": "ahli K3"
+  },
+  {
+    "soal": "Membuat lukisan kaligrafi dengan tinta emas, khat dikuasai sempurna, dan karya dipajang di masjid besar.",
+    "jawaban": "kaligrafer"
+  },
+  {
+    "soal": "Menyelami data polling politik, tren elektoral dipetakan, dan prediksi akurat dihasilkan.",
+    "jawaban": "analis politik"
+  },
+  {
+    "soal": "Merawat arsip nasional yang rapuh, ruang khusus dengan suhu terkontrol, dan dokumen bersejarah diselamatkan.",
+    "jawaban": "arsiparis"
+  },
+  {
+    "soal": "Menyusun program diet untuk atlet profesional, nutrisi dihitung tepat, dan performa maksimal dicapai.",
+    "jawaban": "ahli gizi olahraga"
+  },
+  {
+    "soal": "Memotret aksi olahraga ekstrem, kamera tahan banting digunakan, dan adrenalin tertangkap dalam frame.",
+    "jawaban": "fotografer olahraga"
+  },
+  {
+    "soal": "Menganalisis sampel batuan dari bulan, mikroskop elektronik digunakan, dan asal-usul tata surya dipelajari.",
+    "jawaban": "ahli astrogeologi"
+  },
+  {
+    "soal": "Membuat patung dari pasir di pantai, cetakan dan air laut adalah alatnya, dan karya sementara menghibur pengunjung.",
+    "jawaban": "pematung pasir"
+  },
+  {
+    "soal": "Menyelami pasar cryptocurrency yang fluktuatif, blockchain dianalisis, dan trading algoritmik dijalankan.",
+    "jawaban": "trader crypto"
+  },
+  {
+    "soal": "Merawat tanaman obat di kebun raya, penelitian herbal dilakukan, dan pengobatan tradisional dikembangkan.",
+    "jawaban": "ahli herbologi"
+  },
+  {
+    "soal": "Menyusun naskah untuk film dokumenter, riset mendalam dilakukan, dan cerita nyata disampaikan.",
+    "jawaban": "scriptwriter"
+  },
+  {
+    "soal": "Memotret panorama alam dari udara, drone dikendalikan dengan skill tinggi, dan keindahan bumi dari atas ditangkap.",
+    "jawaban": "fotografer drone"
+  },
+  {
+    "soal": "Menganalisis struktur bangunan tua, ultrasound digunakan, dan restorasi direncanakan dengan tepat.",
+    "jawaban": "ahli restorasi"
+  },
+  {
+    "soal": "Membuat batik tulis dengan canting, malam panas dan kain mori, dan motif tradisional dilestarikan.",
+    "jawaban": "pembatik"
+  },
+  {
+    "soal": "Menyelami data sensor dari gunung berapi, seismograf dipantau 24 jam, dan erupsi diprediksi lebih awal.",
+    "jawaban": "ahli vulkanologi"
+  },
+  {
+    "soal": "Merawat pasien dengan luka bakar berat, ruang steril jadi tempat kerja, dan kulit baru tumbuh dengan perawatannya.",
+    "jawaban": "perawat luka bakar"
+  },
+  {
+    "soal": "Menyusun musik untuk film, orkestra dipimpin, dan soundtrack menghidupkan adegan.",
+    "jawaban": "komposer film"
+  },
+  {
+    "soal": "Memotret makanan untuk menu restoran, styling makanan dikuasai, dan gambar membuat orang lapar.",
+    "jawaban": "food photographer"
+  },
+  {
+    "soal": "Menganalisis pola migrasi burung, satelit tracking digunakan, dan rute perjalanan dipetakan.",
+    "jawaban": "ahli ornitologi"
+  },
+  {
+    "soal": "Membuat keramik dengan teknik roda putar, tungku mencapai suhu tinggi, dan glazur warna-warni diaplikasikan.",
+    "jawaban": "pembuat keramik"
+  },
+  {
+    "soal": "Menyelami pasar seni digital, NFT diciptakan, dan karya virtual terjual mahal.",
+    "jawaban": "seniman digital"
+  },
+  {
+    "soal": "Merawat bayi gajah di kebun binatang, susu formula khusus disiapkan, dan ikatan kuat terbentuk dengan hewan.",
+    "jawaban": "perawat satwa"
+  },
+  {
+    "soal": "Menyusun strategi branding untuk perusahaan baru, identitas visual diciptakan, dan posisi pasar diperkuat.",
+    "jawaban": "brand strategist"
+  },
+  {
+    "soal": "Memotret bintang dan galaksi di observatorium, teleskop canggih digunakan, dan fenomena langit didokumentasikan.",
+    "jawaban": "fotografer astronomi"
+  },
+  {
+    "soal": "Menganalisis sampel udara di perkotaan, polutan diidentifikasi, dan kualitas udara dipantau.",
+    "jawaban": "ahli kualitas udara"
+  },
+  {
+    "soal": "Membuat wayang kulit dari kulit kerbau, pahat kecil digunakan, dan karakter epik dihidupkan.",
+    "jawaban": "dalang"
+  },
+  {
+    "soal": "Menyelami data pasar properti, tren harga dianalisis, dan investasi menguntungkan direkomendasikan.",
+    "jawaban": "konsultan properti"
+  },
+  {
+    "soal": "Merawat pasien stroke di unit rehabilitasi, terapi fisik diberikan, dan kemandirian kembali dikejar.",
+    "jawaban": "fisioterapis"
+  },
+  {
+    "soal": "Menyusun jadwal produksi di pabrik, efisiensi ditingkatkan, dan target output tercapai.",
+    "jawaban": "production planner"
+  },
+  {
+    "soal": "Memotret underwater di terumbu karang, housing kamera tahan air digunakan, dan kehidupan bawah laut didokumentasikan.",
+    "jawaban": "fotografer bawah air"
+  },
+  {
+    "soal": "Menganalisis manuskrip kuno dari abad pertengahan, bahasa Latin dan Yunani dikuasai, dan makna tersembunyi diungkap.",
+    "jawaban": "paleografer"
+  },
+  {
+    "soal": "Membuat mebel dari kayu jati, ukiran tangan diterapkan, dan furnitur bernilai tinggi dihasilkan.",
+    "jawaban": "pengrajin mebel"
+  },
+  {
+    "soal": "Menyelami data ekonomi makro, inflasi dan pertumbuhan dianalisis, dan kebijakan pemerintah dievaluasi.",
+    "jawaban": "analis ekonomi"
+  },
+  {
+    "soal": "Merawat bayi kanguru yatim di kantong buatan, formula khusus disiapkan, dan kembali ke alam liar adalah tujuan.",
+    "jawaban": "rehabilitator satwa liar"
+  },
+  {
+    "soal": "Menyusun rencana pelatihan untuk karyawan baru, modul dibuat menarik, dan kompetensi meningkat pesat.",
+    "jawaban": "training specialist"
+  },
+  {
+    "soal": "Memotret street photography di perkotaan, momen sehari-hari ditangkap, dan cerita urban diceritakan.",
+    "jawaban": "fotografer jalanan"
+  },
+  {
+    "soal": "Menganalisis pola cuaca ekstrem, superkomputer digunakan, dan peringatan dini tsunami dikeluarkan.",
+    "jawaban": "ahli meteorologi ekstrem"
+  },
+  {
+    "soal": "Membuat lukisan dengan teknik pointillism, titik-titik kecil membentuk gambar, dan kesabaran tingkat tinggi dibutuhkan.",
+    "jawaban": "pelukis pointillism"
+  },
+  {
+    "soal": "Menyelami pasar startup teknologi, pitch deck dinilai, dan pendanaan diberikan ke yang potensial.",
+    "jawaban": "venture capitalist"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan makan, terapi psikologis diberikan, dan hubungan sehat dengan makanan dibangun.",
+    "jawaban": "ahli gangguan makan"
+  },
+  {
+    "soal": "Menyusun konten untuk media sosial, algoritma dipelajari, dan engagement tinggi dicapai.",
+    "jawaban": "content creator"
+  },
+  {
+    "soal": "Memotret concert musik rock dari depan panggung, ear protection digunakan, dan energi penonton tertangkap.",
+    "jawaban": "fotografer konser"
+  },
+  {
+    "soal": "Menganalisis sampel tanah dari Mars, rover dikendalikan dari Bumi, dan kehidupan extraterrestrial dicari.",
+    "jawaban": "ahli astrobiologi"
+  },
+  {
+    "soal": "Membuat tenun ikat dengan pewarna alami, motif tradisional dilestarikan, dan karya diekspor ke mancanegara.",
+    "jawaban": "penenun"
+  },
+  {
+    "soal": "Menyelami data pasar modal saham, technical analysis dikuasai, dan profit konsisten dihasilkan.",
+    "jawaban": "trader saham"
+  },
+  {
+    "soal": "Merawat lansia di panti jompo, kebutuhan khusus dipahami, dan masa tua berkualitas diberikan.",
+    "jawaban": "perawat geriatri"
+  },
+  {
+    "soal": "Menyusun strategi ekspor untuk produk lokal, pasar internasional dibuka, dan devisa negara meningkat.",
+    "jawaban": "eksportir"
+  },
+  {
+    "soal": "Memotret portrait dengan lighting dramatic, karakter subjek ditonjolkan, dan emosi tertangkap sempurna.",
+    "jawaban": "fotografer portrait"
+  },
+  {
+    "soal": "Menganalisis struktur molekul protein, kristalografi sinar-X digunakan, dan obat baru dikembangkan.",
+    "jawaban": "ahli biokimia"
+  },
+  {
+    "soal": "Membuat ukiran kayu untuk candi, motif relief kuno direplikasi, dan warisan budaya dilestarikan.",
+    "jawaban": "pengukir kayu"
+  },
+  {
+    "soal": "Menyelami data pengguna internet, perilaku online dianalisis, dan iklan target dipersonalisasi.",
+    "jawaban": "data scientist"
+  },
+  {
+    "soal": "Merawat pasien dengan penyakit langka, penelitian klinis dilakukan, dan harapan baru diberikan.",
+    "jawaban": "dokter spesialis penyakit langka"
+  },
+  {
+    "soal": "Menyusun kampanye iklan untuk produk baru, konsep kreatif dibuat, dan brand awareness melonjak.",
+    "jawaban": "creative director"
+  },
+  {
+    "soal": "Memotret panorama kota di malam hari, long exposure digunakan, dan lampu kota jadi bintang utama.",
+    "jawaban": "fotografer cityscape"
+  },
+  {
+    "soal": "Menganalisis pola gempa bumi di patahan, GPS presisi digunakan, dan pergerakan lempeng dipantau.",
+    "jawaban": "seismolog"
+  },
+  {
+    "soal": "Membuat lukisan dengan pasir berwarna di botol, lapisan demi lapisan disusun, dan karya miniatur dihasilkan.",
+    "jawaban": "seniman pasir botol"
+  },
+  {
+    "soal": "Menyelami pasar komoditas berjangka, futures trading dikuasai, dan harga minyak dunia diprediksi.",
+    "jawaban": "trader komoditas"
+  },
+  {
+    "soal": "Merawat pasien transplantasi organ, obat anti penolakan diatur, dan hidup baru dimulai.",
+    "jawaban": "dokter transplantasi"
+  },
+  {
+    "soal": "Menyusun sistem manajemen mutu di pabrik, standar internasional diterapkan, dan produk bersertifikat ISO.",
+    "jawaban": "quality manager"
+  },
+  {
+    "soal": "Memotret fashion editorial untuk majalah high-end, konsep avant-garde dibuat, dan batas kreativitas didorong.",
+    "jawaban": "fotografer editorial"
+  },
+  {
+    "soal": "Menganalisis sampel udara purba dari es kutub, perubahan iklim dipelajari, dan masa depan bumi diproyeksikan.",
+    "jawaban": "ahli paleoklimatologi"
+  },
+  {
+    "soal": "Membuat kerajinan dari kulit hewan, teknik penyamakan tradisional digunakan, dan produk durable dihasilkan.",
+    "jawaban": "pengrajin kulit"
+  },
+  {
+    "soal": "Menyelami data real-time dari IoT devices, smart city dikembangkan, dan kehidupan urban ditingkatkan.",
+    "jawaban": "IoT specialist"
+  },
+  {
+    "soal": "Merawat bayi dengan berat badan lahir sangat rendah, inkubator dan monitor canggih digunakan, dan tumbuh kembang dipantau ketat.",
+    "jawaban": "neonatolog"
+  },
+  {
+    "soal": "Menyusun rencana bisnis untuk startup, financial projection dibuat, dan investor tertarik.",
+    "jawaban": "business developer"
+  },
+  {
+    "soal": "Memotret adventure di lokasi ekstrem, peralatan survival dibawa, dan kisah petualangan diceritakan.",
+    "jawaban": "fotografer adventure"
+  },
+  {
+    "soal": "Menganalisis pola migrasi ikan di samudera, tagging satelit digunakan, dan stok perikanan dikelola.",
+    "jawaban": "ahli biologi kelautan"
+  },
+  {
+    "soal": "Membuat patung dari chocolate untuk acara khusus, tempering coklat dikuasai, dan karya bisa dimakan.",
+    "jawaban": "chocolate sculptor"
+  },
+  {
+    "soal": "Menyelami data keuangan perusahaan go public, laporan tahunan dianalisis, dan rekomendasi investasi diberikan.",
+    "jawaban": "analis keuangan"
+  },
+  {
+    "soal": "Merawat pasien dengan trauma psikologis berat, EMDR therapy digunakan, dan penyembuhan dimulai.",
+    "jawaban": "trauma therapist"
+  },
+  {
+    "soal": "Menyusun strategi digital transformation untuk perusahaan tradisional, teknologi baru diadopsi, dan kompetitif tetap terjaga.",
+    "jawaban": "digital transformation consultant"
+  },
+  {
+    "soal": "Memotret fine art photography dengan konsep abstrak, simbolisme digunakan, dan makna dalam dihadirkan.",
+    "jawaban": "fotografer fine art"
+  },
+  {
+    "soal": "Menganalisis sampel debu dari asteroid, mikroskop elektron digunakan, dan asal-usul kehidupan dipelajari.",
+    "jawaban": "ahli kosmokimia"
+  },
+  {
+    "soal": "Membuat miniature building dengan skala 1:100, detail arsitektur direplikasi, dan kota mini dihasilkan.",
+    "jawaban": "miniaturis"
+  },
+  {
+    "soal": "Menyelami data dari social media influencer, engagement rate dianalisis, dan campaign efektif dirancang.",
+    "jawaban": "influencer marketing specialist"
+  },
+  {
+    "soal": "Merawat pasien dengan penyakit autoimun, terapi biologis diberikan, dan kualitas hidup meningkat.",
+    "jawaban": "dokter imunologi"
+  },
+  {
+    "soal": "Menyusun standar operasional prosedur untuk industri, best practice diterapkan, dan efisiensi meningkat.",
+    "jawaban": "SOP specialist"
+  },
+  {
+    "soal": "Memotret macro photography serangga, lensa khusus digunakan, dan dunia mikroskopis terungkap.",
+    "jawaban": "fotografer macro"
+  },
+  {
+    "soal": "Menganalisis pola angin untuk pembangkit listrik tenaga bayu, turbin diposisikan optimal, dan energi terbarukan dihasilkan.",
+    "jawaban": "ahli energi angin"
+  },
+  {
+    "soal": "Membuat lukisan dengan cat air di atas kertas basah, teknik wet-on-wet dikuasai, dan efek transparan dihasilkan.",
+    "jawaban": "pelukis cat air"
+  },
+  {
+    "soal": "Menyelami data dari autonomous vehicles, machine learning diterapkan, dan mobil tanpa pengemudi dikembangkan.",
+    "jawaban": "self-driving car engineer"
+  },
+  {
+    "soal": "Merawat pasien dengan luka kronis yang sulit sembuh, terapi luka modern digunakan, dan penyembuhan akhirnya terjadi.",
+    "jawaban": "ahli perawatan luka"
+  },
+  {
+    "soal": "Menyusun kontrak kerja sama internasional, klausul hukum diperiksa, dan kepentingan negara dilindungi.",
+    "jawaban": "negosiator internasional"
+  },
+  {
+    "soal": "Memotret light painting di malam hari, sumber cahaya digerakkan, dan gambar magis tercipta.",
+    "jawaban": "light painting photographer"
+  },
+  {
+    "soal": "Menganalisis sampel inti es dari Antartika, iklim purba direkonstruksi, dan pola perubahan iklim dipahami.",
+    "jawaban": "ahli glasiologi"
+  },
+  {
+    "soal": "Membuat patung dari sabun batang, ukiran detail dilakukan, dan karya sementara mengharumkan ruangan.",
+    "jawaban": "pemahat sabun"
+  },
+  {
+    "soal": "Menyelami data dari smart grid, konsumsi energi dioptimalkan, dan kota cerdas terwujud.",
+    "jawaban": "smart grid engineer"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan tidur, sleep study dilakukan, dan kualitas tidur meningkat.",
+    "jawaban": "ahli tidur"
+  },
+  {
+    "soal": "Menyusun rencana kesiapsiagaan pandemi, protokol kesehatan dibuat, dan wabah dikendalikan.",
+    "jawaban": "ahli epidemiologi"
+  },
+  {
+    "soal": "Memotret infrared photography, filter khusus digunakan, dan dunia dalam spektrum tak terlihat terungkap.",
+    "jawaban": "fotografer infrared"
+  },
+  {
+    "soal": "Menganalisis pola gelombang otak, EEG digunakan, dan gangguan neurologis didiagnosis.",
+    "jawaban": "ahli neurofisiologi"
+  },
+  {
+    "soal": "Membuat seni dari kertas lipat origami, lipatan presisi dibuat, dan bentuk kompleks tercipta.",
+    "jawaban": "seniman origami"
+  },
+  {
+    "soal": "Menyelami data dari quantum computer, algoritma kuantum dikembangkan, dan komputasi masa depan dirintis.",
+    "jawaban": "ahli komputasi kuantum"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan pendengaran, alat bantu dengar dipasang, dan dunia kembali terdengar.",
+    "jawaban": "audiolog"
+  },
+  {
+    "soal": "Menyusun strategi pengelolaan sampah, daur ulang dimaksimalkan, dan lingkungan bersih terwujud.",
+    "jawaban": "ahli pengelolaan sampah"
+  },
+  {
+    "soal": "Memotret time-lapse gunung meletus, kamera dipasang berhari-hari, dan proses geologi dipercepat.",
+    "jawaban": "fotografer time-lapse"
+  },
+  {
+    "soal": "Menganalisis sampel meteorit dari luar angkasa, komposisi mineral dipelajari, dan asal-usul tata surya dipahami.",
+    "jawaban": "ahli meteorit"
+  },
+  {
+    "soal": "Membuat lukisan dengan kopi sebagai media, gradasi warna coklat dikuasai, dan aroma karya menyertai.",
+    "jawaban": "seniman kopi"
+  },
+  {
+    "soal": "Menyelami data dari augmented reality apps, experience immersive dirancang, dan realitas diperkaya.",
+    "jawaban": "AR developer"
+  },
+  {
+    "soal": "Merawat pasien dengan penyakit jantung bawaan, kateterisasi dilakukan, dan hidup normal dimungkinkan.",
+    "jawaban": "dokter kardiologi anak"
+  },
+  {
+    "soal": "Menyusun rencana pengembangan wilayah terpencil, infrastruktur dibangun, dan kesenjangan dikurangi.",
+    "jawaban": "perencana wilayah"
+  },
+  {
+    "soal": "Memotret high-speed photography, kilat strobo digunakan, dan momen super cepat dibekukan.",
+    "jawaban": "fotografer high-speed"
+  },
+  {
+    "soal": "Menganalisis pola medan magnet bumi, magnetometer digunakan, dan anomali geologi terdeteksi.",
+    "jawaban": "ahli geomagnetik"
+  },
+  {
+    "soal": "Membuat patung dari balon, twisting technique dikuasai, dan bentuk hewan atau karakter tercipta.",
+    "jawaban": "pemahat balon"
+  },
+  {
+    "soal": "Menyelami data dari wearable health devices, kesehatan personal dipantau, dan pencegahan penyakit dilakukan.",
+    "jawaban": "digital health specialist"
+  },
+  {
+    "soal": "Merawat pasien dengan luka akibat kecelakaan kerja, rehabilitasi vokasional diberikan, dan kembali bekerja dimungkinkan.",
+    "jawaban": "ahli rehabilitasi kerja"
+  },
+  {
+    "soal": "Menyusun program pengentasan kemiskinan, pendampingan dilakukan, dan kemandirian ekonomi dicapai.",
+    "jawaban": "community developer"
+  },
+  {
+    "soal": "Memotret architecture photography, garis dan bentuk ditekankan, dan keindahan struktur bangunan ditonjolkan.",
+    "jawaban": "fotografer arsitektur"
+  },
+  {
+    "soal": "Menganalisis sampel tanah dari dasar laut, ekosistem unik dipelajari, dan biodiversitas laut dalam ditemukan.",
+    "jawaban": "ahli bentik"
+  },
+  {
+    "soal": "Membuat seni dengan teknik paper cutting, pisau khusus digunakan, dan detail rumit tercipta.",
+    "jawaban": "seniman paper cutting"
+  },
+  {
+    "soal": "Menyelami data dari satellite imagery, perubahan permukaan bumi dipantau, dan bencana alam dideteksi dini.",
+    "jawaban": "ahli penginderaan jauh"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan penglihatan, terapi low vision diberikan, dan kemampuan melihat dimaksimalkan.",
+    "jawaban": "ahli low vision"
+  },
+  {
+    "soal": "Menyusun strategi adaptasi perubahan iklim, ketahanan masyarakat dibangun, dan dampak ekstrem diminimalisir.",
+    "jawaban": "ahli adaptasi iklim"
+  },
+  {
+    "soal": "Memotret black and white photography, kontras dan tekstur ditekankan, dan esensi subjek ditangkap.",
+    "jawaban": "fotografer monokrom"
+  },
+  {
+    "soal": "Menganalisis pola aliran lava gunung berapi, viskositas diukur, dan arah aliran diprediksi.",
+    "jawaban": "ahli lava flow"
+  },
+  {
+    "soal": "Membuat lukisan dengan pasir berwarna di atas kaca, lapisan ditumpuk, dan cahaya tembus menciptakan efek.",
+    "jawaban": "seniman pasir kaca"
+  },
+  {
+    "soal": "Menyelami data dari artificial intelligence dalam kesehatan, diagnosis otomatis dikembangkan, dan akurasi ditingkatkan.",
+    "jawaban": "AI health specialist"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan ginjal stadium akhir, dialisis rutin dilakukan, dan hidup berkualitas tetap terjaga.",
+    "jawaban": "perawat dialisis"
+  },
+  {
+    "soal": "Menyusun rencana pengelolaan taman nasional, konservasi dan ekowisata seimbang, dan alam lestari.",
+    "jawaban": "pengelola taman nasional"
+  },
+  {
+    "soal": "Memotret panning photography di sirkuit balap, shutter speed rendah digunakan, dan gerakan cepat terasa.",
+    "jawaban": "fotografer panning"
+  },
+  {
+    "soal": "Menganalisis sampel air dari mata air panas, mikroorganisme ekstremofil ditemukan, dan kehidupan di kondisi ekstrem dipelajari.",
+    "jawaban": "ahli mikrobiologi ekstrem"
+  },
+  {
+    "soal": "Membuat patung dari es kering, sublimasi dimanfaatkan, dan efek kabut misterius tercipta.",
+    "jawaban": "pematung es kering"
+  },
+  {
+    "soal": "Menyelami data dari blockchain networks, smart contracts dikembangkan, dan transaksi terdesentralisasi dijamin.",
+    "jawaban": "blockchain developer"
+  },
+  {
+    "soal": "Merawat pasien dengan penyakit infeksi tropis, obat-obatan khusus diberikan, dan wabah dikendalikan.",
+    "jawaban": "dokter penyakit tropis"
+  },
+  {
+    "soal": "Menyusun strategi pengembangan energi terbarukan, surya dan angin dikombinasikan, dan ketergantungan fosil dikurangi.",
+    "jawaban": "ahli energi terbarukan"
+  },
+  {
+    "soal": "Memotret minimalist photography, elemen sederhana digunakan, dan esensi keindahan ditangkap.",
+    "jawaban": "fotografer minimalis"
+  },
+  {
+    "soal": "Menganalisis pola migrasi plankton di laut, produktivitas primer diukur, dan rantai makanan laut dipahami.",
+    "jawaban": "ahli planktologi"
+  },
+  {
+    "soal": "Membuat seni dengan teknik glass blowing, tungku panas digunakan, dan bentuk kaca unik tercipta.",
+    "jawaban": "peniup kaca"
+  },
+  {
+    "soal": "Menyelami data dari cybersecurity systems, ancaman siber dideteksi, dan keamanan digital dijaga.",
+    "jawaban": "ahli keamanan siber"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan neurologis langka, terapi inovatif diberikan, dan harapan tetap hidup.",
+    "jawaban": "dokter neurologi"
+  },
+  {
+    "soal": "Menyusun rencana pemulihan pasca bencana, rekonstruksi dilakukan, dan kehidupan normal kembali.",
+    "jawaban": "ahli pemulihan bencana"
+  },
+  {
+    "soal": "Memotret night sky photography, tripod dan remote shutter digunakan, dan bintang-bintang berjejeri di frame.",
+    "jawaban": "fotografer astrofotografi"
+  },
+  {
+    "soal": "Menganalisis sampel udara dari stratosfer, aerosol dan ozon dipelajari, dan lapisan atmosfer dipahami.",
+    "jawaban": "ahli stratosfer"
+  },
+  {
+    "soal": "Membuat patung dari butter untuk kontes pertanian, pendingin khusus digunakan, dan karya bisa bertahan berhari-hari.",
+    "jawaban": "pematung mentega"
+  },
+  {
+    "soal": "Menyelami data dari robotic process automation, otomatisasi bisnis diimplementasikan, dan efisiensi operasional meningkat.",
+    "jawaban": "RPA specialist"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan kejiwaan akut, terapi intensif diberikan, dan stabilitas emosi kembali.",
+    "jawaban": "perawat psikiatri"
+  },
+  {
+    "soal": "Menyusun program pendidikan inklusif, kebutuhan khusus dipenuhi, dan semua anak mendapat kesempatan belajar.",
+    "jawaban": "ahli pendidikan inklusif"
+  },
+  {
+    "soal": "Memotret reflection photography, permukaan air atau kaca dimanfaatkan, dan dunia terbalik atau simetris tercipta.",
+    "jawaban": "fotografer refleksi"
+  },
+  {
+    "soal": "Menganalisis pola perubahan garis pantai, erosi dan sedimentasi dipantau, dan pesisir terlindungi.",
+    "jawaban": "ahli geomorfologi pantai"
+  },
+  {
+    "soal": "Membuat seni dengan teknik metal etching, asam digunakan untuk mengikis, dan pola permanen tercipta.",
+    "jawaban": "seniman metal etching"
+  },
+  {
+    "soal": "Menyelami data dari machine learning models, prediksi akurat dihasilkan, dan pengambilan keputusan dibantu.",
+    "jawaban": "machine learning engineer"
+  },
+  {
+    "soal": "Merawat pasien dengan luka akibat radiasi, terapi khusus diberikan, dan pemulihan bertahap terjadi.",
+    "jawaban": "ahli radioterapi"
+  },
+  {
+    "soal": "Menyusun strategi pengelolaan air bersih, sumber daya air dilindungi, dan kebutuhan masyarakat terpenuhi.",
+    "jawaban": "ahli manajemen air"
+  },
+  {
+    "soal": "Memotret smoke art photography, asap dibentuk dengan kreatif, dan abstraksi warna-warni tercipta.",
+    "jawaban": "fotografer smoke art"
+  },
+  {
+    "soal": "Menganalisis sampel dari inti bumi secara tidak langsung, gelombang seismik dipelajari, dan struktur dalam bumi dipahami.",
+    "jawaban": "ahli seismologi dalam"
+  },
+  {
+    "soal": "Membuat patung dari salju di daerah bersalju, sekop dan cetakan digunakan, dan karya musiman menghibur.",
+    "jawaban": "pematung salju"
+  },
+  {
+    "soal": "Menyelami data dari digital twin technology, replika virtual dibuat, dan pengujian simulasi dilakukan.",
+    "jawaban": "digital twin engineer"
+  },
+  {
+    "soal": "Merawat pasien dengan penyakit degeneratif progresif, perawatan paliatif diberikan, dan kualitas hidup akhir dijaga.",
+    "jawaban": "dokter paliatif"
+  },
+  {
+    "soal": "Menyusun rencana pengembangan desa wisata, potensi lokal dikembangkan, dan ekonomi masyarakat tumbuh.",
+    "jawaban": "pengembang desa wisata"
+  },
+  {
+    "soal": "Memotret siluet photography saat matahari terbenam, bentuk gelap di depan cahaya, dan drama visual tercipta.",
+    "jawaban": "fotografer siluet"
+  },
+  {
+    "soal": "Menganalisis pola curah hujan ekstrem, perubahan iklim dipantau, dan banjir diprediksi lebih awal.",
+    "jawaban": "ahli hidrometeorologi"
+  },
+  {
+    "soal": "Membuat seni dengan teknik resin art, pigmen warna dicampur, dan efek marmer atau lautan tercipta.",
+    "jawaban": "seniman resin"
+  },
+  {
+    "soal": "Menyelami data dari internet of medical things, kesehatan terkoneksi, dan perawatan proaktif dimungkinkan.",
+    "jawaban": "IoMT specialist"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan pernapasan kronis, terapi oksigen diberikan, dan kualitas napas meningkat.",
+    "jawaban": "terapis pernapasan"
+  },
+  {
+    "soal": "Menyusun strategi pengurangan emisi karbon, transisi energi dilakukan, dan kontribusi perubahan iklim dikurangi.",
+    "jawaban": "ahli dekarbonisasi"
+  },
+  {
+    "soal": "Memotret lensball photography, bola kaca digunakan sebagai lensa, dan dunia terdistorsi menarik tercipta.",
+    "jawaban": "fotografer lensball"
+  },
+  {
+    "soal": "Menganalisis sampel dari danau vulkanik, ekosistem unik dipelajari, dan kehidupan di air asam ditemukan.",
+    "jawaban": "ahli limnologi vulkanik"
+  },
+  {
+    "soal": "Membuat patung dari buah dan sayuran untuk festival kuliner, pisau tajam digunakan, dan karya bisa dimakan.",
+    "jawaban": "pematung makanan"
+  },
+  {
+    "soal": "Menyelami data dari edge computing, pemrosesan data dekat sumber, dan latensi rendah dicapai.",
+    "jawaban": "edge computing engineer"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan metabolisme langka, diet khusus diatur, dan hidup normal tetap berjalan.",
+    "jawaban": "ahli metabolisme"
+  },
+  {
+    "soal": "Menyusun program literasi digital masyarakat, keterampilan teknologi diajarkan, dan kesenjangan digital dikurangi.",
+    "jawaban": "fasilitator literasi digital"
+  },
+  {
+    "soal": "Memotret double exposure photography, dua gambar digabung, dan cerita visual unik tercipta.",
+    "jawaban": "fotografer double exposure"
+  },
+  {
+    "soal": "Menganalisis pola arus laut dalam, sirkulasi termohalin dipelajari, dan iklim global dipengaruhi.",
+    "jawaban": "ahli oseanografi fisik"
+  },
+  {
+    "soal": "Membuat seni dengan teknik pyrography pada kayu, alat pemanas digunakan, dan pola terbakar permanen.",
+    "jawaban": "seniman pyrography"
+  },
+  {
+    "soal": "Menyelami data dari 5G networks, konektivitas super cepat, dan internet of things berkembang pesat.",
+    "jawaban": "ahli jaringan 5G"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan sistem imun bawaan, terapi gen diberikan, dan kekebalan tubuh diperbaiki.",
+    "jawaban": "dokter imunologi klinis"
+  },
+  {
+    "soal": "Menyusun strategi pengelolaan limbah berbahaya, penanganan aman dilakukan, dan lingkungan terlindungi.",
+    "jawaban": "ahli limbah B3"
+  },
+  {
+    "soal": "Memotret water drop photography, tetesan air difoto tepat waktu, dan dunia dalam tetesan terungkap.",
+    "jawaban": "fotografer water drop"
+  },
+  {
+    "soal": "Menganalisis sampel dari awan, proses kondensasi dipelajari, dan pembentukan hujan dipahami.",
+    "jawaban": "ahli fisika awan"
+  },
+  {
+    "soal": "Membuat patung dari lilin untuk upacara keagamaan, cetakan dan pewarna digunakan, dan karya spiritual tercipta.",
+    "jawaban": "pematung lilin"
+  },
+  {
+    "soal": "Menyelami data dari natural language processing, chatbot cerdas dikembangkan, dan interaksi manusia-komputer alami.",
+    "jawaban": "NLP engineer"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan sistem pencernaan kompleks, endoskopi dilakukan, dan diagnosis tepat diberikan.",
+    "jawaban": "dokter gastroenterologi"
+  },
+  {
+    "soal": "Menyusun rencana pengembangan ekonomi biru, potensi laut dimanfaatkan berkelanjutan, dan kesejahteraan pesisir meningkat.",
+    "jawaban": "ahli ekonomi biru"
+  },
+  {
+    "soal": "Memotret levitation photography, ilusi melayang dibuat, dan realitas dibengkokkan dalam frame.",
+    "jawaban": "fotografer levitasi"
+  },
+  {
+    "soal": "Menganalisis pola gelombang gravitasi, detektor ultra sensitif digunakan, dan tabrakan bintang neutron dideteksi.",
+    "jawaban": "ahli gelombang gravitasi"
+  },
+  {
+    "soal": "Membuat seni dengan teknik sand animation di atas meja lampu, pasir digerakkan jari, dan cerita visual hidup.",
+    "jawaban": "seniman pasir animasi"
+  },
+  {
+    "soal": "Menyelami data dari quantum internet, komunikasi ultra aman, dan era kuantum dimulai.",
+    "jawaban": "ahli jaringan kuantum"
+  },
+  {
+    "soal": "Merawat pasien dengan penyakit langka akibat kelainan kromosom, terapi suportif diberikan, dan hidup bermakna tetap berjalan.",
+    "jawaban": "dokter penyakit langka"
+  },
+  {
+    "soal": "Menyusun strategi pengelolaan kawasan karst, ekosistem unik dilindungi, dan air tanah terjaga.",
+    "jawaban": "ahli karsologi"
+  },
+  {
+    "soal": "Memotret zoom burst photography, lensa dizoom selama exposure, dan efek ledakan cahaya tercipta.",
+    "jawaban": "fotografer zoom burst"
+  },
+  {
+    "soal": "Menganalisis sampel dari permafrost yang mencair, virus purba ditemukan, dan ancaman kesehatan baru dipelajari.",
+    "jawaban": "ahli mikrobiologi permafrost"
+  },
+  {
+    "soal": "Membuat patung dari garam untuk festival budaya, kristal garam dibentuk, dan karya sementara berkilau.",
+    "jawaban": "pematung garam"
+  },
+  {
+    "soal": "Menyelami data dari brain-computer interface, pikiran mengendalikan komputer, dan batas manusia-mesin kabur.",
+    "jawaban": "BCI researcher"
+  },
+  {
+    "soal": "Merawat pasien dengan luka akibat perang atau konflik, bedah rekonstruksi dilakukan, dan kehidupan baru dimulai.",
+    "jawaban": "dokter bedah rekonstruktif"
+  },
+  {
+    "soal": "Menyusun program ketahanan pangan lokal, pertanian perkotaan dikembangkan, dan kemandirian pangan meningkat.",
+    "jawaban": "ahli ketahanan pangan"
+  },
+  {
+    "soal": "Memotret light trail photography di jalan raya malam, shutter speed lambat digunakan, dan jejak cahaya kendaraan membentuk garis.",
+    "jawaban": "fotografer light trail"
+  },
+  {
+    "soal": "Menganalisis pola migrasi kelelawar, ekolokasi dipelajari, dan peran dalam ekosistem dipahami.",
+    "jawaban": "ahli chiropterologi"
+  },
+  {
+    "soal": "Membuat seni dengan teknik ice dyeing pada kain, es dan pewarna alami digunakan, dan pola unik tercipta.",
+    "jawaban": "seniman ice dyeing"
+  },
+  {
+    "soal": "Menyelami data dari swarm robotics, robot bekerja sama seperti lebah, dan tugas kompleks diselesaikan.",
+    "jawaban": "ahli robotika swarm"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan perkembangan anak, terapi wicara dan okupasi diberikan, dan potensi maksimal dicapai.",
+    "jawaban": "terapis perkembangan anak"
+  },
+  {
+    "soal": "Menyusun strategi pengelolaan ekosistem mangrove, pesisir terlindung dari abrasi, dan biodiversitas terjaga.",
+    "jawaban": "ahli ekologi mangrove"
+  },
+  {
+    "soal": "Memotret fractal photography di alam, pola berulang ditemukan, dan matematika dalam kehidupan sehari-hari terungkap.",
+    "jawaban": "fotografer fraktal"
+  },
+  {
+    "soal": "Menganalisis sampel dari ventilasi hidrotermal laut dalam, kehidupan tanpa matahari ditemukan, dan asal usul kehidupan di Bumi dipelajari.",
+    "jawaban": "ahli hidrotermal"
+  },
+  {
+    "soal": "Membuat patung dari sabun cuci piring, gelembung dibentuk, dan karya sementara berkilau pelangi.",
+    "jawaban": "pematung sabun busa"
+  },
+  {
+    "soal": "Menyelami data dari neuromorphic computing, chip meniru otak manusia, dan AI lebih efisien diciptakan.",
+    "jawaban": "ahli komputasi neuromorfik"
+  },
+  {
+    "soal": "Merawat pasien dengan penyakit akibat perubahan iklim, penyakit tropis baru muncul, dan adaptasi kesehatan dilakukan.",
+    "jawaban": "dokter kesehatan lingkungan"
+  },
+  {
+    "soal": "Menyusun program pengelolaan sampah plastik di laut, mikroplastik dikurangi, dan ekosistem laut diselamatkan.",
+    "jawaban": "ahli plastik laut"
+  },
+  {
+    "soal": "Memotret prism photography, prisma kaca digunakan, dan efek pelangi atau distorsi kreatif tercipta.",
+    "jawaban": "fotografer prisma"
+  },
+  {
+    "soal": "Menganalisis pola hibernasi hewan, metabolisme melambat ekstrem, dan aplikasi untuk kedokteran dipelajari.",
+    "jawaban": "ahli hibernasi"
+  },
+  {
+    "soal": "Membuat seni dengan teknik alcohol ink pada kanvas, tinta alkohol menyebar, dan efek abstrak berwarna-warni.",
+    "jawaban": "seniman alcohol ink"
+  },
+  {
+    "soal": "Menyelami data dari explainable AI, keputusan algoritma dipahami manusia, dan transparansi AI meningkat.",
+    "jawaban": "XAI researcher"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan akibat teknologi, digital fatigue diobati, dan keseimbangan kehidupan-digital dicapai.",
+    "jawaban": "dokter kesehatan digital"
+  },
+  {
+    "soal": "Menyusun strategi pengelolaan daerah aliran sungai, banjir dikendalikan, dan air bersih tersedia sepanjang tahun.",
+    "jawaban": "ahli DAS"
+  },
+  {
+    "soal": "Memotret crystal ball photography, bola kristal digunakan, dan dunia terbalik dalam bola terlihat.",
+    "jawaban": "fotografer crystal ball"
+  },
+  {
+    "soal": "Menganalisis sampel dari awan debu antar bintang, molekul organik ditemukan, dan bahan kehidupan di alam semesta dipelajari.",
+    "jawaban": "ahli astrokimia"
+  },
+  {
+    "soal": "Membuat patung dari jaring laba-laba, serat alami dikumpulkan, dan karya rapuh namun kuat tercipta.",
+    "jawaban": "pematung jaring laba-laba"
+  },
+  {
+    "soal": "Menyelami data dari DNA computing, informasi disimpan dalam molekul, dan komputasi biologis masa depan.",
+    "jawaban": "ahli komputasi DNA"
+  },
+  {
+    "soal": "Merawat pasien dengan penyakit akibat polusi udara, paru-paru dibersihkan, dan kualitas hidup di kota meningkat.",
+    "jawaban": "dokter paru lingkungan"
+  },
+  {
+    "soal": "Menyusun program konservasi terumbu karang, pemutihan karang dicegah, dan kehidupan laut berlanjut.",
+    "jawaban": "ahli terumbu karang"
+  },
+  {
+    "soal": "Memotret miniature effect photography, tilt-shift lens digunakan, dan dunia nyata terlihat seperti miniatur.",
+    "jawaban": "fotografer tilt-shift"
+  },
+  {
+    "soal": "Menganalisis pola simbiosis antar spesies, hubungan mutualisme dipelajari, dan kerjasama alam dipahami.",
+    "jawaban": "ahli simbiosis"
+  },
+  {
+    "soal": "Membuat seni dengan teknik fluid art, cat akrilik dituang, dan pola organik mengalir tercipta.",
+    "jawaban": "seniman fluid art"
+  },
+  {
+    "soal": "Menyelami data dari optical computing, cahaya menggantikan elektron, dan kecepatan komputasi meningkat drastis.",
+    "jawaban": "ahli komputasi optik"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan akibat radiasi elektromagnetik, sensitivitas diobati, dan hidup di dunia wireless tetap nyaman.",
+    "jawaban": "dokter elektrosensitivitas"
+  },
+  {
+    "soal": "Menyusun strategi pengelolaan hutan gambut, kebakaran dicegah, dan karbon tersimpan aman.",
+    "jawaban": "ahli gambut"
+  },
+  {
+    "soal": "Memotret fire spinning photography, pemain api berputar, dan jejak api membentuk pola melingkar.",
+    "jawaban": "fotografer fire spinning"
+  },
+  {
+    "soal": "Menganalisis sampel dari salju merah darah di Antartika, alga salju ditemukan, dan fenomena alam langka dipelajari.",
+    "jawaban": "ahli kriologi"
+  },
+  {
+    "soal": "Membuat patung dari asap yang dibekukan, nitrogen cair digunakan, dan karya sesaat yang mempesona.",
+    "jawaban": "pematung asap beku"
+  },
+  {
+    "soal": "Menyelami data dari memristor-based computing, memori dan prosesor menyatu, dan komputer lebih efisien.",
+    "jawaban": "ahli komputasi memristor"
+  },
+  {
+    "soal": "Merawat pasien dengan penyakit akibat mikroplastik, detoksifikasi dilakukan, dan tubuh dibersihkan polutan modern.",
+    "jawaban": "dokter toksikologi modern"
+  },
+  {
+    "soal": "Menyusun program restorasi padang lamun, penyerap karbon biru diperkuat, dan pantai stabil.",
+    "jawaban": "ahli lamun"
+  },
+  {
+    "soal": "Memotret splitzer photography, filter splitzer digunakan, dan gambar terbagi dalam beberapa warna.",
+    "jawaban": "fotografer splitzer"
+  },
+  {
+    "soal": "Menganalisis pola biofluoresensi makhluk laut, cahaya biru diterima dan dipancarkan warna lain, dan komunikasi bawah laut dipelajari.",
+    "jawaban": "ahli biofluoresensi"
+  },
+  {
+    "soal": "Membuat seni dengan teknik moss graffiti, campuran lumut dan yoghurt, dan karya hidup tumbuh di dinding.",
+    "jawaban": "seniman graffiti lumut"
+  },
+  {
+    "soal": "Menyelami data dari spintronic computing, spin elektron digunakan, dan energi komputasi lebih hemat.",
+    "jawaban": "ahli spintronik"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan akibat realitas virtual, motion sickness digital diobati, dan adaptasi teknologi dibantu.",
+    "jawaban": "dokter kesehatan VR"
+  },
+  {
+    "soal": "Menyusun strategi pengelolaan daerah rawa, keanekaragaman hayati dilindungi, dan fungsi ekologis terjaga.",
+    "jawaban": "ahli ekologi rawa"
+  },
+  {
+    "soal": "Memotret kinetic sand photography, pasir kinetik dibentuk, dan tekstur unik tercipta dalam frame.",
+    "jawaban": "fotografer pasir kinetik"
+  },
+  {
+    "soal": "Menganalisis sampel dari awan jamur setelah hujan, spora melayang, dan siklus kehidupan fungi dipelajari.",
+    "jawaban": "ahli aeromikologi"
+  },
+  {
+    "soal": "Membuat patung dari kaca yang pecah lalu disusun kembali, teknik kintsugi diterapkan, dan keindahan dalam kerusakan.",
+    "jawaban": "pematung kintsugi"
+  },
+  {
+    "soal": "Menyelami data dari chemical computing, reaksi kimia melakukan komputasi, dan komputer cair dikembangkan.",
+    "jawaban": "ahli komputasi kimia"
+  },
+  {
+    "soal": "Merawat pasien dengan penyakit akibat perubahan pola makan modern, intoleransi makanan diobati, dan kesehatan usus dipulihkan.",
+    "jawaban": "dokter gastroenterologi fungsional"
+  },
+  {
+    "soal": "Menyusun program konservasi kelelawar pemakan serangga, pengendali hama alami, dan ekosistem seimbang.",
+    "jawaban": "ahli konservasi kelelawar"
+  },
+  {
+    "soal": "Memotret bokeh photography, background blur artistic, dan cahaya membentuk lingkaran-lingkaran indah.",
+    "jawaban": "fotografer bokeh"
+  },
+  {
+    "soal": "Menganalisis pola perubahan warna bunglon, nanokristal dalam kulit, dan aplikasi material masa depan.",
+    "jawaban": "ahli kameleonologi"
+  },
+  {
+    "soal": "Membuat seni dengan teknik gunpowder painting, bubuk mesiu diletakkan dan dinyalakan, dan pola terbakar tercipta.",
+    "jawaban": "seniman mesiu"
+  },
+  {
+    "soal": "Menyelami data dari probabilistic computing, ketidakpastian dimodelkan, dan AI menghadapi dunia nyata.",
+    "jawaban": "ahli komputasi probabilistik"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan akibat polusi suara, telinga dilindungi, dan ketenangan hidup dikembalikan.",
+    "jawaban": "dokter kesehatan akustik"
+  },
+  {
+    "soal": "Menyusun strategi pengelolaan dataran tinggi, erosi tanah dicegah, dan pertanian berkelanjutan dijalankan.",
+    "jawaban": "ahli agroekologi dataran tinggi"
+  },
+  {
+    "soal": "Memotret chiaroscuro photography, kontras terang-gelap ekstrem, dan drama visual intens tercipta.",
+    "jawaban": "fotografer chiaroscuro"
+  },
+  {
+    "soal": "Menganalisis sampel dari awan debu Sahara yang melintasi samudera, nutrisi untuk hutan Amazon, dan siklus global dipelajari.",
+    "jawaban": "ahli transportasi debu global"
+  },
+  {
+    "soal": "Membuat patung dari es kering dan air panas, reaksi sublimasi menciptakan kabut, dan instalasi sementara misterius.",
+    "jawaban": "pematung kabut"
+  },
+  {
+    "soal": "Menyelami data dari reservoir computing, sistem dinamis kompleks, dan AI belajar dari chaos.",
+    "jawaban": "ahli komputasi reservoir"
+  },
+  {
+    "soal": "Merawat pasien dengan penyakit akibat shift kerja malam, ritme sirkadian dikembalikan, dan kesehatan pekerja terjaga.",
+    "jawaban": "dokter kronobiologi"
+  },
+  {
+    "soal": "Menyusun program konservasi kupu-kupu migran, rute perjalanan dilindungi, dan polinator alam terjaga.",
+    "jawaban": "ahli lepidopterologi konservasi"
+  },
+  {
+    "soal": "Memotret texture photography, permukaan benda didekatkan, dan pola detail tak terlihat mata telanjang terungkap.",
+    "jawaban": "fotografer tekstur"
+  },
+  {
+    "soal": "Menganalisis pola bioluminesensi cacing laut, cahaya dalam gelap, dan komunikasi kimia di kedalaman.",
+    "jawaban": "ahli bioluminesensi laut dalam"
+  },
+  {
+    "soal": "Membuat seni dengan teknik ice and salt painting, es meleleh dengan garam, dan pola abstrak terbentuk.",
+    "jawaban": "seniman es dan garam"
+  },
+  {
+    "soal": "Menyelami data dari analog computing, sinyal kontinu diproses, dan komputer untuk masalah spesialis.",
+    "jawaban": "ahli komputasi analog"
+  },
+  {
+    "soal": "Merawat pasien dengan gangguan akibat polusi cahaya, ritme tidur diperbaiki, dan kesehatan malam hari dipulihkan.",
+    "jawaban": "dokter kesehatan cahaya"
+  },
+  {
+    "soal": "Menyusun strategi pengelolaan savana, kebakaran alami dikelola, dan ekosistem padang rumput lestari.",
+    "jawaban": "ahli ekologi savana"
+  },
+  {
+    "soal": "Memotret sunstar photography, diafragma kecil digunakan, dan matahari bersinar seperti bintang.",
+    "jawaban": "fotografer sunstar"
+  },
+  {
+    "soal": "Menganalisis sampel dari awan noctilucent di mesosfer, fenomena langit malam musim panas, dan perubahan atmosfer atas.",
+    "jawaban": "ahli awan nocilucent"
+  },
+  {
+    "soal": "Membuat patung dari uap air di udara dingin, nafas membeku membentuk awan mini, dan karya sesaat di udara.",
+    "jawaban": "pematung uap"
+  },
+  {
+    "soal": "Menyelami data dari stochastic computing, noise dimanfaatkan, dan komputasi dengan ketidakpastian.",
+    "jawaban": "ahli komputasi stokastik"
+  },
+  {
+    "soal": "Merawat pasien dengan penyakit akibat gaya hidup sedentari, gerakan kembali dilakukan, dan hidup aktif dipulihkan.",
+    "jawaban": "dokter gaya hidup"
+  },
+  {
+    "soal": "Menyusun program konservasi burung migran Arctic, rute terbang dilindungi, dan keajaiban migrasi alam bertahan.",
+    "jawaban": "ahli ornitologi migrasi"
+  }
+]

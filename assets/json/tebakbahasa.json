@@ -1,0 +1,2018 @@
+[
+  {
+    "kata": "omah",
+    "arti": "rumah",
+    "asal": "Jawa",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "batur",
+    "arti": "teman",
+    "asal": "Sunda",
+    "kategori": "Orang"
+  },
+  {
+    "kata": "bagas",
+    "arti": "rumah",
+    "asal": "Batak",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "torang",
+    "arti": "kita",
+    "asal": "Manado",
+    "kategori": "Kata Ganti"
+  },
+  {
+    "kata": "beta",
+    "arti": "saya",
+    "asal": "Maluku",
+    "kategori": "Kata Ganti"
+  },
+  {
+    "kata": "melali",
+    "arti": "jalan-jalan",
+    "asal": "Bali",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "asoe",
+    "arti": "anjing",
+    "asal": "Aceh",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "rumah",
+    "arti": "rumah",
+    "asal": "Minang",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "sai",
+    "arti": "siapa",
+    "asal": "Papua",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "lalang",
+    "arti": "jalan",
+    "asal": "Dayak",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "lampung",
+    "arti": "nama daerah",
+    "asal": "Lampung",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "karas",
+    "arti": "marah",
+    "asal": "Sasak",
+    "kategori": "Emosi"
+  },
+  {
+    "kata": "kare",
+    "arti": "makan",
+    "asal": "Makassar",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "ngakan",
+    "arti": "makan",
+    "asal": "Bugis",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "modo",
+    "arti": "mata",
+    "asal": "Gorontalo",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "wai",
+    "arti": "air",
+    "asal": "Bima",
+    "kategori": "Alam"
+  },
+  {
+    "kata": "muni",
+    "arti": "kata",
+    "asal": "Sumbawa",
+    "kategori": "Komunikasi"
+  },
+  {
+    "kata": "mbaru",
+    "arti": "rumah",
+    "asal": "Flores",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "bine",
+    "arti": "wanita",
+    "asal": "Rote",
+    "kategori": "Orang"
+  },
+  {
+    "kata": "ngeu",
+    "arti": "ini",
+    "asal": "Nias",
+    "kategori": "Kata Tunjuk"
+  },
+  {
+    "kata": "mangan",
+    "arti": "makan",
+    "asal": "Jawa",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "dahar",
+    "arti": "makan",
+    "asal": "Sunda",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "makan",
+    "arti": "makan",
+    "asal": "Minang",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "ngombe",
+    "arti": "minum",
+    "asal": "Jawa",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "inu",
+    "arti": "minum",
+    "asal": "Sunda",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "minum",
+    "arti": "minum",
+    "asal": "Minang",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "gede",
+    "arti": "besar",
+    "asal": "Jawa",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "ageung",
+    "arti": "besar",
+    "asal": "Sunda",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "gadang",
+    "arti": "besar",
+    "asal": "Minang",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "cilik",
+    "arti": "kecil",
+    "asal": "Jawa",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "leutik",
+    "arti": "kecil",
+    "asal": "Sunda",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "ketek",
+    "arti": "kecil",
+    "asal": "Minang",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "mlaku",
+    "arti": "jalan",
+    "asal": "Jawa",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "leumpang",
+    "arti": "jalan",
+    "asal": "Sunda",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "jalang",
+    "arti": "jalan",
+    "asal": "Minang",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "turu",
+    "arti": "tidur",
+    "asal": "Jawa",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "sare",
+    "arti": "tidur",
+    "asal": "Sunda",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "tidua",
+    "arti": "tidur",
+    "asal": "Minang",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "ngajeng",
+    "arti": "makan",
+    "asal": "Bali",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "jegeg",
+    "arti": "cantik",
+    "asal": "Bali",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "par",
+    "arti": "pergi",
+    "asal": "Maluku",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "dorang",
+    "arti": "mereka",
+    "asal": "Maluku",
+    "kategori": "Kata Ganti"
+  },
+  {
+    "kata": "so",
+    "arti": "sudah",
+    "asal": "Manado",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "pa",
+    "arti": "apa",
+    "asal": "Manado",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "ale",
+    "arti": "kamu",
+    "asal": "Maluku",
+    "kategori": "Kata Ganti"
+  },
+  {
+    "kata": "katong",
+    "arti": "kita",
+    "asal": "Maluku",
+    "kategori": "Kata Ganti"
+  },
+  {
+    "kata": "sio",
+    "arti": "siapa",
+    "asal": "Manado",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "kase",
+    "arti": "kasih",
+    "asal": "Manado",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "tara",
+    "arti": "tidak",
+    "asal": "Manado",
+    "kategori": "Negasi"
+  },
+  {
+    "kata": "imah",
+    "arti": "rumah",
+    "asal": "Sunda",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "umah",
+    "arti": "rumah",
+    "asal": "Bali",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "balai",
+    "arti": "rumah",
+    "asal": "Minang",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "leueur",
+    "arti": "lapar",
+    "asal": "Sunda",
+    "kategori": "Kondisi"
+  },
+  {
+    "kata": "ngelih",
+    "arti": "lapar",
+    "asal": "Jawa",
+    "kategori": "Kondisi"
+  },
+  {
+    "kata": "lapo",
+    "arti": "lapar",
+    "asal": "Minang",
+    "kategori": "Kondisi"
+  },
+  {
+    "kata": "haneut",
+    "arti": "hangat",
+    "asal": "Sunda",
+    "kategori": "Kondisi"
+  },
+  {
+    "kata": "anget",
+    "arti": "hangat",
+    "asal": "Jawa",
+    "kategori": "Kondisi"
+  },
+  {
+    "kata": "angek",
+    "arti": "hangat",
+    "asal": "Minang",
+    "kategori": "Kondisi"
+  },
+  {
+    "kata": "tiis",
+    "arti": "dingin",
+    "asal": "Sunda",
+    "kategori": "Kondisi"
+  },
+  {
+    "kata": "adhem",
+    "arti": "dingin",
+    "asal": "Jawa",
+    "kategori": "Kondisi"
+  },
+  {
+    "kata": "dingin",
+    "arti": "dingin",
+    "asal": "Minang",
+    "kategori": "Kondisi"
+  },
+  {
+    "kata": "wangkot",
+    "arti": "duduk",
+    "asal": "Sunda",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "lungguh",
+    "arti": "duduk",
+    "asal": "Jawa",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "duduak",
+    "arti": "duduk",
+    "asal": "Minang",
+    "kategori": "Aktivitas"
+  },
+  {
+    "kata": "bageur",
+    "arti": "baik",
+    "asal": "Sunda",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "apik",
+    "arti": "baik",
+    "asal": "Jawa",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "baik",
+    "arti": "baik",
+    "asal": "Minang",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "jahat",
+    "arti": "jahat",
+    "asal": "Sunda",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "ala",
+    "arti": "jahat",
+    "asal": "Jawa",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "jahat",
+    "arti": "jahat",
+    "asal": "Minang",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "pisan",
+    "arti": "sangat",
+    "asal": "Sunda",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "banget",
+    "arti": "sangat",
+    "asal": "Jawa",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "sangaik",
+    "arti": "sangat",
+    "asal": "Minang",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "panon",
+    "arti": "mata",
+    "asal": "Sunda",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "mripat",
+    "arti": "mata",
+    "asal": "Jawa",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "mato",
+    "arti": "mata",
+    "asal": "Minang",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "ceuli",
+    "arti": "telinga",
+    "asal": "Sunda",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "kuping",
+    "arti": "telinga",
+    "asal": "Jawa",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "talingo",
+    "arti": "telinga",
+    "asal": "Minang",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "irung",
+    "arti": "hidung",
+    "asal": "Sunda",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "irung",
+    "arti": "hidung",
+    "asal": "Jawa",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "iduik",
+    "arti": "hidung",
+    "asal": "Minang",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "baham",
+    "arti": "mulut",
+    "asal": "Sunda",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "cangkem",
+    "arti": "mulut",
+    "asal": "Jawa",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "muluaik",
+    "arti": "mulut",
+    "asal": "Minang",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "leungeun",
+    "arti": "tangan",
+    "asal": "Sunda",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "tangan",
+    "arti": "tangan",
+    "asal": "Jawa",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "tangan",
+    "arti": "tangan",
+    "asal": "Minang",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "suku",
+    "arti": "kaki",
+    "asal": "Sunda",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "sikil",
+    "arti": "kaki",
+    "asal": "Jawa",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "kaki",
+    "arti": "kaki",
+    "asal": "Minang",
+    "kategori": "Tubuh"
+  },
+  {
+    "kata": "cepak",
+    "arti": "cepat",
+    "asal": "Jawa",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "gancang",
+    "arti": "cepat",
+    "asal": "Sunda",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "capek",
+    "arti": "cepat",
+    "asal": "Minang",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "alon",
+    "arti": "lambat",
+    "asal": "Jawa",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "lalaunan",
+    "arti": "lambat",
+    "asal": "Sunda",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "lamba",
+    "arti": "lambat",
+    "asal": "Minang",
+    "kategori": "Sifat"
+  },
+  {
+    "kata": "larang",
+    "arti": "mahal",
+    "asal": "Jawa",
+    "kategori": "Ekonomi"
+  },
+  {
+    "kata": "mahal",
+    "arti": "mahal",
+    "asal": "Sunda",
+    "kategori": "Ekonomi"
+  },
+  {
+    "kata": "maha",
+    "arti": "mahal",
+    "asal": "Minang",
+    "kategori": "Ekonomi"
+  },
+  {
+    "kata": "murah",
+    "arti": "murah",
+    "asal": "Jawa",
+    "kategori": "Ekonomi"
+  },
+  {
+    "kata": "murahan",
+    "arti": "murah",
+    "asal": "Sunda",
+    "kategori": "Ekonomi"
+  },
+  {
+    "kata": "murah",
+    "arti": "murah",
+    "asal": "Minang",
+    "kategori": "Ekonomi"
+  },
+  {
+    "kata": "gajih",
+    "arti": "gaji",
+    "asal": "Jawa",
+    "kategori": "Ekonomi"
+  },
+  {
+    "kata": "gaji",
+    "arti": "gaji",
+    "asal": "Sunda",
+    "kategori": "Ekonomi"
+  },
+  {
+    "kata": "gaji",
+    "arti": "gaji",
+    "asal": "Minang",
+    "kategori": "Ekonomi"
+  },
+  {
+    "kata": "duit",
+    "arti": "uang",
+    "asal": "Jawa",
+    "kategori": "Ekonomi"
+  },
+  {
+    "kata": "artos",
+    "arti": "uang",
+    "asal": "Sunda",
+    "kategori": "Ekonomi"
+  },
+  {
+    "kata": "pitih",
+    "arti": "uang",
+    "asal": "Minang",
+    "kategori": "Ekonomi"
+  },
+  {
+    "kata": "toko",
+    "arti": "toko",
+    "asal": "Jawa",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "warung",
+    "arti": "warung",
+    "asal": "Jawa",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "warung",
+    "arti": "warung",
+    "asal": "Sunda",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "warung",
+    "arti": "warung",
+    "asal": "Minang",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "pasar",
+    "arti": "pasar",
+    "asal": "Jawa",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "pasar",
+    "arti": "pasar",
+    "asal": "Sunda",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "pasa",
+    "arti": "pasar",
+    "asal": "Minang",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "bengi",
+    "arti": "malam",
+    "asal": "Jawa",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "wengi",
+    "arti": "malam",
+    "asal": "Sunda",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "malan",
+    "arti": "malam",
+    "asal": "Minang",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "esuk",
+    "arti": "pagi",
+    "asal": "Jawa",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "isuk",
+    "arti": "pagi",
+    "asal": "Sunda",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "pagi",
+    "arti": "pagi",
+    "asal": "Minang",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "sore",
+    "arti": "sore",
+    "asal": "Jawa",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "sore",
+    "arti": "sore",
+    "asal": "Sunda",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "petang",
+    "arti": "sore",
+    "asal": "Minang",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "awan",
+    "arti": "siang",
+    "asal": "Jawa",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "beurang",
+    "arti": "siang",
+    "asal": "Sunda",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "siang",
+    "arti": "siang",
+    "asal": "Minang",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "dina",
+    "arti": "hari",
+    "asal": "Sunda",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "dino",
+    "arti": "hari",
+    "asal": "Jawa",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "hari",
+    "arti": "hari",
+    "asal": "Minang",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "sasi",
+    "arti": "bulan",
+    "asal": "Jawa",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "bulan",
+    "arti": "bulan",
+    "asal": "Sunda",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "bulan",
+    "arti": "bulan",
+    "asal": "Minang",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "taun",
+    "arti": "tahun",
+    "asal": "Jawa",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "taun",
+    "arti": "tahun",
+    "asal": "Sunda",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "tahun",
+    "arti": "tahun",
+    "asal": "Minang",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "saiki",
+    "arti": "sekarang",
+    "asal": "Jawa",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "ayeuna",
+    "arti": "sekarang",
+    "asal": "Sunda",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "kini",
+    "arti": "sekarang",
+    "asal": "Minang",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "wingi",
+    "arti": "kemarin",
+    "asal": "Jawa",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "kamari",
+    "arti": "kemarin",
+    "asal": "Sunda",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "sanjo",
+    "arti": "kemarin",
+    "asal": "Minang",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "mbesuk",
+    "arti": "besok",
+    "asal": "Jawa",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "enjing",
+    "arti": "besok",
+    "asal": "Sunda",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "baso",
+    "arti": "besok",
+    "asal": "Minang",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "sik",
+    "arti": "nanti",
+    "asal": "Jawa",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "engke",
+    "arti": "nanti",
+    "asal": "Sunda",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "kudian",
+    "arti": "nanti",
+    "asal": "Minang",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "mbiyen",
+    "arti": "dulu",
+    "asal": "Jawa",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "baheula",
+    "arti": "dulu",
+    "asal": "Sunda",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "dahulu",
+    "arti": "dulu",
+    "asal": "Minang",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "mengkene",
+    "arti": "begini",
+    "asal": "Jawa",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "kieu",
+    "arti": "begini",
+    "asal": "Sunda",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "baincek",
+    "arti": "begini",
+    "asal": "Minang",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "mengkono",
+    "arti": "begitu",
+    "asal": "Jawa",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "kitu",
+    "arti": "begitu",
+    "asal": "Sunda",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "bainantu",
+    "arti": "begitu",
+    "asal": "Minang",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "kene",
+    "arti": "sini",
+    "asal": "Jawa",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "dieu",
+    "arti": "sini",
+    "asal": "Sunda",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "disinan",
+    "arti": "sini",
+    "asal": "Minang",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "kono",
+    "arti": "sana",
+    "asal": "Jawa",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "ditu",
+    "arti": "sana",
+    "asal": "Sunda",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "dikasadai",
+    "arti": "sana",
+    "asal": "Minang",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "kana",
+    "arti": "situ",
+    "asal": "Jawa",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "dita",
+    "arti": "situ",
+    "asal": "Sunda",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "di sinan",
+    "arti": "situ",
+    "asal": "Minang",
+    "kategori": "Tempat"
+  },
+  {
+    "kata": "endi",
+    "arti": "mana",
+    "asal": "Jawa",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "mana",
+    "arti": "mana",
+    "asal": "Sunda",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "dimano",
+    "arti": "mana",
+    "asal": "Minang",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "piye",
+    "arti": "bagaimana",
+    "asal": "Jawa",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "kumaha",
+    "arti": "bagaimana",
+    "asal": "Sunda",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "baa",
+    "arti": "bagaimana",
+    "asal": "Minang",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "opo",
+    "arti": "apa",
+    "asal": "Jawa",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "naon",
+    "arti": "apa",
+    "asal": "Sunda",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "apo",
+    "arti": "apa",
+    "asal": "Minang",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "sopo",
+    "arti": "siapa",
+    "asal": "Jawa",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "saha",
+    "arti": "siapa",
+    "asal": "Sunda",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "sipa",
+    "arti": "siapa",
+    "asal": "Minang",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "kepriye",
+    "arti": "bagaimana",
+    "asal": "Jawa",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "bara",
+    "arti": "berapa",
+    "asal": "Minang",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "pira",
+    "arti": "berapa",
+    "asal": "Jawa",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "sabaraha",
+    "arti": "berapa",
+    "asal": "Sunda",
+    "kategori": "Tanya"
+  },
+  {
+    "kata": "yen",
+    "arti": "jika",
+    "asal": "Jawa",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "upami",
+    "arti": "jika",
+    "asal": "Sunda",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "jiko",
+    "arti": "jika",
+    "asal": "Minang",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "tapi",
+    "arti": "tetapi",
+    "asal": "Jawa",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "tapi",
+    "arti": "tetapi",
+    "asal": "Sunda",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "tapi",
+    "arti": "tetapi",
+    "asal": "Minang",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "lan",
+    "arti": "dan",
+    "asal": "Jawa",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "jeung",
+    "arti": "dan",
+    "asal": "Sunda",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "jo",
+    "arti": "dan",
+    "asal": "Minang",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "utawa",
+    "arti": "atau",
+    "asal": "Jawa",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "atawa",
+    "arti": "atau",
+    "asal": "Sunda",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "atau",
+    "arti": "atau",
+    "asal": "Minang",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "amarga",
+    "arti": "karena",
+    "asal": "Jawa",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "sabab",
+    "arti": "karena",
+    "asal": "Sunda",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "karano",
+    "arti": "karena",
+    "asal": "Minang",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "dadi",
+    "arti": "jadi",
+    "asal": "Jawa",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "jadi",
+    "arti": "jadi",
+    "asal": "Sunda",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "jadi",
+    "arti": "jadi",
+    "asal": "Minang",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "maneh",
+    "arti": "lagi",
+    "asal": "Jawa",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "deui",
+    "arti": "lagi",
+    "asal": "Sunda",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "kambali",
+    "arti": "lagi",
+    "asal": "Minang",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "wis",
+    "arti": "sudah",
+    "asal": "Jawa",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "geus",
+    "arti": "sudah",
+    "asal": "Sunda",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "alun",
+    "arti": "sudah",
+    "asal": "Minang",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "durung",
+    "arti": "belum",
+    "asal": "Jawa",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "acan",
+    "arti": "belum",
+    "asal": "Sunda",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "balum",
+    "arti": "belum",
+    "asal": "Minang",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "arep",
+    "arti": "akan",
+    "asal": "Jawa",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "rek",
+    "arti": "akan",
+    "asal": "Sunda",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "kan",
+    "arti": "akan",
+    "asal": "Minang",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "lagi",
+    "arti": "sedang",
+    "asal": "Jawa",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "keur",
+    "arti": "sedang",
+    "asal": "Sunda",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "sedang",
+    "arti": "sedang",
+    "asal": "Minang",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "sakwise",
+    "arti": "setelah",
+    "asal": "Jawa",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "sanggeus",
+    "arti": "setelah",
+    "asal": "Sunda",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "sasudah",
+    "arti": "setelah",
+    "asal": "Minang",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "sadurunge",
+    "arti": "sebelum",
+    "asal": "Jawa",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "sateuacan",
+    "arti": "sebelum",
+    "asal": "Sunda",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "sabalum",
+    "arti": "sebelum",
+    "asal": "Minang",
+    "kategori": "Waktu"
+  },
+  {
+    "kata": "bareng",
+    "arti": "bersama",
+    "asal": "Jawa",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "bareng",
+    "arti": "bersama",
+    "asal": "Sunda",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "basamo",
+    "arti": "bersama",
+    "asal": "Minang",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "dhewe",
+    "arti": "sendiri",
+    "asal": "Jawa",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "sorangan",
+    "arti": "sendiri",
+    "asal": "Sunda",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "surang",
+    "arti": "sendiri",
+    "asal": "Minang",
+    "kategori": "Keterangan"
+  },
+  {
+    "kata": "kabeh",
+    "arti": "semua",
+    "asal": "Jawa",
+    "kategori": "Kuantitas"
+  },
+  {
+    "kata": "kabeh",
+    "arti": "semua",
+    "asal": "Sunda",
+    "kategori": "Kuantitas"
+  },
+  {
+    "kata": "sadonyo",
+    "arti": "semua",
+    "asal": "Minang",
+    "kategori": "Kuantitas"
+  },
+  {
+    "kata": "sakliyane",
+    "arti": "selain",
+    "asal": "Jawa",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "salian",
+    "arti": "selain",
+    "asal": "Sunda",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "salain",
+    "arti": "selain",
+    "asal": "Minang",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "karo",
+    "arti": "dengan",
+    "asal": "Jawa",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "kalawan",
+    "arti": "dengan",
+    "asal": "Sunda",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "dangan",
+    "arti": "dengan",
+    "asal": "Minang",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "marang",
+    "arti": "kepada",
+    "asal": "Jawa",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "ka",
+    "arti": "kepada",
+    "asal": "Sunda",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "ka",
+    "arti": "kepada",
+    "asal": "Minang",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "saka",
+    "arti": "dari",
+    "asal": "Jawa",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "ti",
+    "arti": "dari",
+    "asal": "Sunda",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "dari",
+    "arti": "dari",
+    "asal": "Minang",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "menyang",
+    "arti": "ke",
+    "asal": "Jawa",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "ka",
+    "arti": "ke",
+    "asal": "Sunda",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "ka",
+    "arti": "ke",
+    "asal": "Minang",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "ing",
+    "arti": "di",
+    "asal": "Jawa",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "di",
+    "arti": "di",
+    "asal": "Sunda",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "di",
+    "arti": "di",
+    "asal": "Minang",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "kanggo",
+    "arti": "untuk",
+    "asal": "Jawa",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "pikeun",
+    "arti": "untuk",
+    "asal": "Sunda",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "untuak",
+    "arti": "untuk",
+    "asal": "Minang",
+    "kategori": "Penghubung"
+  },
+  {
+    "kata": "woh",
+    "arti": "buah",
+    "asal": "Jawa",
+    "kategori": "Makanan"
+  },
+  {
+    "kata": "buah",
+    "arti": "buah",
+    "asal": "Sunda",
+    "kategori": "Makanan"
+  },
+  {
+    "kata": "buah",
+    "arti": "buah",
+    "asal": "Minang",
+    "kategori": "Makanan"
+  },
+  {
+    "kata": "sayur",
+    "arti": "sayur",
+    "asal": "Jawa",
+    "kategori": "Makanan"
+  },
+  {
+    "kata": "sayur",
+    "arti": "sayur",
+    "asal": "Sunda",
+    "kategori": "Makanan"
+  },
+  {
+    "kata": "sayua",
+    "arti": "sayur",
+    "asal": "Minang",
+    "kategori": "Makanan"
+  },
+  {
+    "kata": "sega",
+    "arti": "nasi",
+    "asal": "Jawa",
+    "kategori": "Makanan"
+  },
+  {
+    "kata": "sangu",
+    "arti": "nasi",
+    "asal": "Sunda",
+    "kategori": "Makanan"
+  },
+  {
+    "kata": "nasi",
+    "arti": "nasi",
+    "asal": "Minang",
+    "kategori": "Makanan"
+  },
+  {
+    "kata": "banyu",
+    "arti": "air",
+    "asal": "Jawa",
+    "kategori": "Minuman"
+  },
+  {
+    "kata": "cai",
+    "arti": "air",
+    "asal": "Sunda",
+    "kategori": "Minuman"
+  },
+  {
+    "kata": "aia",
+    "arti": "air",
+    "asal": "Minang",
+    "kategori": "Minuman"
+  },
+  {
+    "kata": "sepu",
+    "arti": "minyak",
+    "asal": "Jawa",
+    "kategori": "Bahan"
+  },
+  {
+    "kata": "minyak",
+    "arti": "minyak",
+    "asal": "Sunda",
+    "kategori": "Bahan"
+  },
+  {
+    "kata": "minyak",
+    "arti": "minyak",
+    "asal": "Minang",
+    "kategori": "Bahan"
+  },
+  {
+    "kata": "gula",
+    "arti": "gula",
+    "asal": "Jawa",
+    "kategori": "Bahan"
+  },
+  {
+    "kata": "gula",
+    "arti": "gula",
+    "asal": "Sunda",
+    "kategori": "Bahan"
+  },
+  {
+    "kata": "gulo",
+    "arti": "gula",
+    "asal": "Minang",
+    "kategori": "Bahan"
+  },
+  {
+    "kata": "garam",
+    "arti": "garam",
+    "asal": "Jawa",
+    "kategori": "Bahan"
+  },
+  {
+    "kata": "uyah",
+    "arti": "garam",
+    "asal": "Sunda",
+    "kategori": "Bahan"
+  },
+  {
+    "kata": "garam",
+    "arti": "garam",
+    "asal": "Minang",
+    "kategori": "Bahan"
+  },
+  {
+    "kata": "kebo",
+    "arti": "kerbau",
+    "asal": "Jawa",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "munding",
+    "arti": "kerbau",
+    "asal": "Sunda",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "kabau",
+    "arti": "kerbau",
+    "asal": "Minang",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "sapi",
+    "arti": "sapi",
+    "asal": "Jawa",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "sapi",
+    "arti": "sapi",
+    "asal": "Sunda",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "sapi",
+    "arti": "sapi",
+    "asal": "Minang",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "kucing",
+    "arti": "kucing",
+    "asal": "Jawa",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "ucing",
+    "arti": "kucing",
+    "asal": "Sunda",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "kuciang",
+    "arti": "kucing",
+    "asal": "Minang",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "asu",
+    "arti": "anjing",
+    "asal": "Jawa",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "anjing",
+    "arti": "anjing",
+    "asal": "Sunda",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "anjiang",
+    "arti": "anjing",
+    "asal": "Minang",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "pitik",
+    "arti": "ayam",
+    "asal": "Jawa",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "hayam",
+    "arti": "ayam",
+    "asal": "Sunda",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "ayam",
+    "arti": "ayam",
+    "asal": "Minang",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "manuk",
+    "arti": "burung",
+    "asal": "Jawa",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "manuk",
+    "arti": "burung",
+    "asal": "Sunda",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "buruang",
+    "arti": "burung",
+    "asal": "Minang",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "iwak",
+    "arti": "ikan",
+    "asal": "Jawa",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "lauk",
+    "arti": "ikan",
+    "asal": "Sunda",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "ikan",
+    "arti": "ikan",
+    "asal": "Minang",
+    "kategori": "Hewan"
+  },
+  {
+    "kata": "tukang",
+    "arti": "ahli",
+    "asal": "Jawa",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "tukang",
+    "arti": "ahli",
+    "asal": "Sunda",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "tukang",
+    "arti": "ahli",
+    "asal": "Minang",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "guru",
+    "arti": "guru",
+    "asal": "Jawa",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "guru",
+    "arti": "guru",
+    "asal": "Sunda",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "guru",
+    "arti": "guru",
+    "asal": "Minang",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "dokter",
+    "arti": "dokter",
+    "asal": "Jawa",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "dokter",
+    "arti": "dokter",
+    "asal": "Sunda",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "dokter",
+    "arti": "dokter",
+    "asal": "Minang",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "pedagang",
+    "arti": "pedagang",
+    "asal": "Jawa",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "padagang",
+    "arti": "pedagang",
+    "asal": "Sunda",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "padagang",
+    "arti": "pedagang",
+    "asal": "Minang",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "petani",
+    "arti": "petani",
+    "asal": "Jawa",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "patani",
+    "arti": "petani",
+    "asal": "Sunda",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "patani",
+    "arti": "petani",
+    "asal": "Minang",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "nelayan",
+    "arti": "nelayan",
+    "asal": "Jawa",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "pandagang",
+    "arti": "nelayan",
+    "asal": "Sunda",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "nelayan",
+    "arti": "nelayan",
+    "asal": "Minang",
+    "kategori": "Profesi"
+  },
+  {
+    "kata": "kendaraan",
+    "arti": "kendaraan",
+    "asal": "Jawa",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "kandaraan",
+    "arti": "kendaraan",
+    "asal": "Sunda",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "kandaraan",
+    "arti": "kendaraan",
+    "asal": "Minang",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "mobil",
+    "arti": "mobil",
+    "asal": "Jawa",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "mobil",
+    "arti": "mobil",
+    "asal": "Sunda",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "mobil",
+    "arti": "mobil",
+    "asal": "Minang",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "motor",
+    "arti": "motor",
+    "asal": "Jawa",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "motor",
+    "arti": "motor",
+    "asal": "Sunda",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "motor",
+    "arti": "motor",
+    "asal": "Minang",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "sepeda",
+    "arti": "sepeda",
+    "asal": "Jawa",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "sapeda",
+    "arti": "sepeda",
+    "asal": "Sunda",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "sapado",
+    "arti": "sepeda",
+    "asal": "Minang",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "kapal",
+    "arti": "kapal",
+    "asal": "Jawa",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "kapal",
+    "arti": "kapal",
+    "asal": "Sunda",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "kapal",
+    "arti": "kapal",
+    "asal": "Minang",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "pesawat",
+    "arti": "pesawat",
+    "asal": "Jawa",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "pesawat",
+    "arti": "pesawat",
+    "asal": "Sunda",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "pesawat",
+    "arti": "pesawat",
+    "asal": "Minang",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "bis",
+    "arti": "bus",
+    "asal": "Jawa",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "beus",
+    "arti": "bus",
+    "asal": "Sunda",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "bus",
+    "arti": "bus",
+    "asal": "Minang",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "kereta",
+    "arti": "kereta",
+    "asal": "Jawa",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "karéta",
+    "arti": "kereta",
+    "asal": "Sunda",
+    "kategori": "Transportasi"
+  },
+  {
+    "kata": "karate",
+    "arti": "kereta",
+    "asal": "Minang",
+    "kategori": "Transportasi"
+  }
+]
